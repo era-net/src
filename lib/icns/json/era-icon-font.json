@@ -1,0 +1,4825 @@
+{
+    "era-icon-font": {
+        "general-information": {
+            "written-by": "Erwin Kevin Kast",
+            "date": "02. July 2019",
+            "licence": "MIT"
+        },
+        "icon-information": {
+            "quantity": 962,
+            "prefix": "\"era-\""
+        },
+        "icons": [
+            {
+                "id": 0,
+                "class": "era-asterisk",
+                "code": "f069"
+            },
+            {
+                "id": 1,
+                "class": "era-plus1",
+                "code": "f067"
+            },
+            {
+                "id": 2,
+                "class": "era-question",
+                "code": "f128"
+            },
+            {
+                "id": 3,
+                "class": "era-minus1",
+                "code": "f068"
+            },
+            {
+                "id": 4,
+                "class": "era-glass",
+                "code": "f000"
+            },
+            {
+                "id": 5,
+                "class": "era-music1",
+                "code": "f001"
+            },
+            {
+                "id": 6,
+                "class": "era-search1",
+                "code": "f002"
+            },
+            {
+                "id": 7,
+                "class": "era-envelope-o",
+                "code": "f003"
+            },
+            {
+                "id": 8,
+                "class": "era-heart1",
+                "code": "f004"
+            },
+            {
+                "id": 9,
+                "class": "era-star1",
+                "code": "f005"
+            },
+            {
+                "id": 10,
+                "class": "era-star-o",
+                "code": "f006"
+            },
+            {
+                "id": 11,
+                "class": "era-user1",
+                "code": "f007"
+            },
+            {
+                "id": 12,
+                "class": "era-film1",
+                "code": "f008"
+            },
+            {
+                "id": 13,
+                "class": "era-th-large",
+                "code": "f009"
+            },
+            {
+                "id": 14,
+                "class": "era-th",
+                "code": "f00a"
+            },
+            {
+                "id": 15,
+                "class": "era-th-list",
+                "code": "f00b"
+            },
+            {
+                "id": 16,
+                "class": "era-check1",
+                "code": "f00c"
+            },
+            {
+                "id": 17,
+                "class": "era-close",
+                "code": "f00d"
+            },
+            {
+                "id": 18,
+                "class": "era-search-plus",
+                "code": "f00e"
+            },
+            {
+                "id": 19,
+                "class": "era-search-minus",
+                "code": "f010"
+            },
+            {
+                "id": 20,
+                "class": "era-power-off",
+                "code": "f011"
+            },
+            {
+                "id": 21,
+                "class": "era-signal",
+                "code": "f012"
+            },
+            {
+                "id": 22,
+                "class": "era-cog",
+                "code": "f013"
+            },
+            {
+                "id": 23,
+                "class": "era-trash-o",
+                "code": "f014"
+            },
+            {
+                "id": 24,
+                "class": "era-home1",
+                "code": "f015"
+            },
+            {
+                "id": 25,
+                "class": "era-file-o",
+                "code": "f016"
+            },
+            {
+                "id": 26,
+                "class": "era-clock-o",
+                "code": "f017"
+            },
+            {
+                "id": 27,
+                "class": "era-road",
+                "code": "f018"
+            },
+            {
+                "id": 28,
+                "class": "era-download1",
+                "code": "f019"
+            },
+            {
+                "id": 29,
+                "class": "era-arrow-circle-o-down",
+                "code": "f01a"
+            },
+            {
+                "id": 30,
+                "class": "era-arrow-circle-o-up",
+                "code": "f01b"
+            },
+            {
+                "id": 31,
+                "class": "era-inbox1",
+                "code": "f01c"
+            },
+            {
+                "id": 32,
+                "class": "era-play-circle-o",
+                "code": "f01d"
+            },
+            {
+                "id": 33,
+                "class": "era-rotate-right",
+                "code": "f01e"
+            },
+            {
+                "id": 34,
+                "class": "era-refresh",
+                "code": "f021"
+            },
+            {
+                "id": 35,
+                "class": "era-list-alt",
+                "code": "f022"
+            },
+            {
+                "id": 36,
+                "class": "era-lock1",
+                "code": "f023"
+            },
+            {
+                "id": 37,
+                "class": "era-flag1",
+                "code": "f024"
+            },
+            {
+                "id": 38,
+                "class": "era-headphones1",
+                "code": "f025"
+            },
+            {
+                "id": 39,
+                "class": "era-volume-off",
+                "code": "f026"
+            },
+            {
+                "id": 40,
+                "class": "era-volume-down",
+                "code": "f027"
+            },
+            {
+                "id": 41,
+                "class": "era-volume-up",
+                "code": "f028"
+            },
+            {
+                "id": 42,
+                "class": "era-qrcode",
+                "code": "f029"
+            },
+            {
+                "id": 43,
+                "class": "era-barcode",
+                "code": "f02a"
+            },
+            {
+                "id": 44,
+                "class": "era-tag1",
+                "code": "f02b"
+            },
+            {
+                "id": 45,
+                "class": "era-tags",
+                "code": "f02c"
+            },
+            {
+                "id": 46,
+                "class": "era-book1",
+                "code": "f02d"
+            },
+            {
+                "id": 47,
+                "class": "era-bookmark1",
+                "code": "f02e"
+            },
+            {
+                "id": 48,
+                "class": "era-print",
+                "code": "f02f"
+            },
+            {
+                "id": 49,
+                "class": "era-camera1",
+                "code": "f030"
+            },
+            {
+                "id": 50,
+                "class": "era-font",
+                "code": "f031"
+            },
+            {
+                "id": 51,
+                "class": "era-bold1",
+                "code": "f032"
+            },
+            {
+                "id": 52,
+                "class": "era-italic1",
+                "code": "f033"
+            },
+            {
+                "id": 53,
+                "class": "era-text-height",
+                "code": "f034"
+            },
+            {
+                "id": 54,
+                "class": "era-text-width",
+                "code": "f035"
+            },
+            {
+                "id": 55,
+                "class": "era-align-left1",
+                "code": "f036"
+            },
+            {
+                "id": 56,
+                "class": "era-align-center1",
+                "code": "f037"
+            },
+            {
+                "id": 57,
+                "class": "era-align-right1",
+                "code": "f038"
+            },
+            {
+                "id": 58,
+                "class": "era-align-justify1",
+                "code": "f039"
+            },
+            {
+                "id": 59,
+                "class": "era-list1",
+                "code": "f03a"
+            },
+            {
+                "id": 60,
+                "class": "era-dedent",
+                "code": "f03b"
+            },
+            {
+                "id": 61,
+                "class": "era-outdent",
+                "code": "f03b"
+            },
+            {
+                "id": 62,
+                "class": "era-indent",
+                "code": "f03c"
+            },
+            {
+                "id": 63,
+                "class": "era-video-camera",
+                "code": "f03d"
+            },
+            {
+                "id": 64,
+                "class": "era-image1",
+                "code": "f03e"
+            },
+            {
+                "id": 65,
+                "class": "era-photo",
+                "code": "f03e"
+            },
+            {
+                "id": 66,
+                "class": "era-picture-o",
+                "code": "f03e"
+            },
+            {
+                "id": 67,
+                "class": "era-pencil",
+                "code": "f040"
+            },
+            {
+                "id": 68,
+                "class": "era-map-marker",
+                "code": "f041"
+            },
+            {
+                "id": 69,
+                "class": "era-adjust",
+                "code": "f042"
+            },
+            {
+                "id": 70,
+                "class": "era-tint",
+                "code": "f043"
+            },
+            {
+                "id": 71,
+                "class": "era-edit1",
+                "code": "f044"
+            },
+            {
+                "id": 72,
+                "class": "era-share-square-o",
+                "code": "f045"
+            },
+            {
+                "id": 73,
+                "class": "era-check-square-o",
+                "code": "f046"
+            },
+            {
+                "id": 74,
+                "class": "era-arrows",
+                "code": "f047"
+            },
+            {
+                "id": 75,
+                "class": "era-step-backward",
+                "code": "f048"
+            },
+            {
+                "id": 76,
+                "class": "era-fast-backward",
+                "code": "f049"
+            },
+            {
+                "id": 77,
+                "class": "era-backward",
+                "code": "f04a"
+            },
+            {
+                "id": 78,
+                "class": "era-play1",
+                "code": "f04b"
+            },
+            {
+                "id": 79,
+                "class": "era-pause1",
+                "code": "f04c"
+            },
+            {
+                "id": 80,
+                "class": "era-stop",
+                "code": "f04d"
+            },
+            {
+                "id": 81,
+                "class": "era-forward",
+                "code": "f04e"
+            },
+            {
+                "id": 82,
+                "class": "era-fast-forward1",
+                "code": "f050"
+            },
+            {
+                "id": 83,
+                "class": "era-step-forward",
+                "code": "f051"
+            },
+            {
+                "id": 84,
+                "class": "era-eject",
+                "code": "f052"
+            },
+            {
+                "id": 85,
+                "class": "era-chevron-left1",
+                "code": "f053"
+            },
+            {
+                "id": 86,
+                "class": "era-chevron-right1",
+                "code": "f054"
+            },
+            {
+                "id": 87,
+                "class": "era-plus-circle1",
+                "code": "f055"
+            },
+            {
+                "id": 88,
+                "class": "era-minus-circle1",
+                "code": "f056"
+            },
+            {
+                "id": 89,
+                "class": "era-times-circle",
+                "code": "f057"
+            },
+            {
+                "id": 90,
+                "class": "era-check-circle1",
+                "code": "f058"
+            },
+            {
+                "id": 91,
+                "class": "era-question-circle",
+                "code": "f059"
+            },
+            {
+                "id": 92,
+                "class": "era-info-circle",
+                "code": "f05a"
+            },
+            {
+                "id": 93,
+                "class": "era-crosshairs",
+                "code": "f05b"
+            },
+            {
+                "id": 94,
+                "class": "era-times-circle-o",
+                "code": "f05c"
+            },
+            {
+                "id": 95,
+                "class": "era-check-circle-o",
+                "code": "f05d"
+            },
+            {
+                "id": 96,
+                "class": "era-ban",
+                "code": "f05e"
+            },
+            {
+                "id": 97,
+                "class": "era-arrow-left1",
+                "code": "f060"
+            },
+            {
+                "id": 98,
+                "class": "era-arrow-right1",
+                "code": "f061"
+            },
+            {
+                "id": 99,
+                "class": "era-arrow-up1",
+                "code": "f062"
+            },
+            {
+                "id": 100,
+                "class": "era-arrow-down1",
+                "code": "f063"
+            },
+            {
+                "id": 101,
+                "class": "era-mail-forward",
+                "code": "f064"
+            },
+            {
+                "id": 102,
+                "class": "era-expand",
+                "code": "f065"
+            },
+            {
+                "id": 103,
+                "class": "era-compress",
+                "code": "f066"
+            },
+            {
+                "id": 104,
+                "class": "era-exclamation-circle",
+                "code": "f06a"
+            },
+            {
+                "id": 105,
+                "class": "era-gift1",
+                "code": "f06b"
+            },
+            {
+                "id": 106,
+                "class": "era-leaf",
+                "code": "f06c"
+            },
+            {
+                "id": 107,
+                "class": "era-fire",
+                "code": "f06d"
+            },
+            {
+                "id": 108,
+                "class": "era-eye1",
+                "code": "f06e"
+            },
+            {
+                "id": 109,
+                "class": "era-eye-slash",
+                "code": "f070"
+            },
+            {
+                "id": 110,
+                "class": "era-exclamation-triangle",
+                "code": "f071"
+            },
+            {
+                "id": 111,
+                "class": "era-plane",
+                "code": "f072"
+            },
+            {
+                "id": 112,
+                "class": "era-calendar1",
+                "code": "f073"
+            },
+            {
+                "id": 113,
+                "class": "era-random",
+                "code": "f074"
+            },
+            {
+                "id": 114,
+                "class": "era-comment",
+                "code": "f075"
+            },
+            {
+                "id": 115,
+                "class": "era-magnet",
+                "code": "f076"
+            },
+            {
+                "id": 116,
+                "class": "era-chevron-up1",
+                "code": "f077"
+            },
+            {
+                "id": 117,
+                "class": "era-chevron-down1",
+                "code": "f078"
+            },
+            {
+                "id": 118,
+                "class": "era-retweet",
+                "code": "f079"
+            },
+            {
+                "id": 119,
+                "class": "era-shopping-cart1",
+                "code": "f07a"
+            },
+            {
+                "id": 120,
+                "class": "era-folder1",
+                "code": "f07b"
+            },
+            {
+                "id": 121,
+                "class": "era-folder-open",
+                "code": "f07c"
+            },
+            {
+                "id": 122,
+                "class": "era-arrows-v",
+                "code": "f07d"
+            },
+            {
+                "id": 123,
+                "class": "era-arrows-h",
+                "code": "f07e"
+            },
+            {
+                "id": 124,
+                "class": "era-bar-chart1",
+                "code": "f080"
+            },
+            {
+                "id": 125,
+                "class": "era-bar-chart-o",
+                "code": "f080"
+            },
+            {
+                "id": 126,
+                "class": "era-twitter-square",
+                "code": "f081"
+            },
+            {
+                "id": 127,
+                "class": "era-facebook-square",
+                "code": "f082"
+            },
+            {
+                "id": 128,
+                "class": "era-camera-retro",
+                "code": "f083"
+            },
+            {
+                "id": 129,
+                "class": "era-key1",
+                "code": "f084"
+            },
+            {
+                "id": 130,
+                "class": "era-cogs",
+                "code": "f085"
+            },
+            {
+                "id": 131,
+                "class": "era-comments",
+                "code": "f086"
+            },
+            {
+                "id": 132,
+                "class": "era-thumbs-o-up",
+                "code": "f087"
+            },
+            {
+                "id": 133,
+                "class": "era-thumbs-o-down",
+                "code": "f088"
+            },
+            {
+                "id": 134,
+                "class": "era-heart-o",
+                "code": "f08a"
+            },
+            {
+                "id": 135,
+                "class": "era-sign-out",
+                "code": "f08b"
+            },
+            {
+                "id": 136,
+                "class": "era-linkedin-square",
+                "code": "f08c"
+            },
+            {
+                "id": 137,
+                "class": "era-thumb-tack",
+                "code": "f08d"
+            },
+            {
+                "id": 138,
+                "class": "era-external-link1",
+                "code": "f08e"
+            },
+            {
+                "id": 139,
+                "class": "era-sign-in",
+                "code": "f090"
+            },
+            {
+                "id": 140,
+                "class": "era-trophy",
+                "code": "f091"
+            },
+            {
+                "id": 141,
+                "class": "era-github-square",
+                "code": "f092"
+            },
+            {
+                "id": 142,
+                "class": "era-upload1",
+                "code": "f093"
+            },
+            {
+                "id": 143,
+                "class": "era-lemon-o",
+                "code": "f094"
+            },
+            {
+                "id": 144,
+                "class": "era-phone1",
+                "code": "f095"
+            },
+            {
+                "id": 145,
+                "class": "era-square-o",
+                "code": "f096"
+            },
+            {
+                "id": 146,
+                "class": "era-bookmark-o",
+                "code": "f097"
+            },
+            {
+                "id": 147,
+                "class": "era-phone-square",
+                "code": "f098"
+            },
+            {
+                "id": 148,
+                "class": "era-twitter1",
+                "code": "f099"
+            },
+            {
+                "id": 149,
+                "class": "era-facebook1",
+                "code": "f09a"
+            },
+            {
+                "id": 150,
+                "class": "era-github1",
+                "code": "f09b"
+            },
+            {
+                "id": 151,
+                "class": "era-unlock1",
+                "code": "f09c"
+            },
+            {
+                "id": 152,
+                "class": "era-credit-card1",
+                "code": "f09d"
+            },
+            {
+                "id": 153,
+                "class": "era-rss1",
+                "code": "f09e"
+            },
+            {
+                "id": 154,
+                "class": "era-hdd-o",
+                "code": "f0a0"
+            },
+            {
+                "id": 155,
+                "class": "era-bullhorn",
+                "code": "f0a1"
+            },
+            {
+                "id": 156,
+                "class": "era-bell-o",
+                "code": "f0a2"
+            },
+            {
+                "id": 157,
+                "class": "era-certificate",
+                "code": "f0a3"
+            },
+            {
+                "id": 158,
+                "class": "era-hand-o-right",
+                "code": "f0a4"
+            },
+            {
+                "id": 159,
+                "class": "era-hand-o-left",
+                "code": "f0a5"
+            },
+            {
+                "id": 160,
+                "class": "era-hand-o-up",
+                "code": "f0a6"
+            },
+            {
+                "id": 161,
+                "class": "era-hand-o-down",
+                "code": "f0a7"
+            },
+            {
+                "id": 162,
+                "class": "era-arrow-circle-left",
+                "code": "f0a8"
+            },
+            {
+                "id": 163,
+                "class": "era-arrow-circle-right",
+                "code": "f0a9"
+            },
+            {
+                "id": 164,
+                "class": "era-arrow-circle-up",
+                "code": "f0aa"
+            },
+            {
+                "id": 165,
+                "class": "era-arrow-circle-down",
+                "code": "f0ab"
+            },
+            {
+                "id": 166,
+                "class": "era-globe1",
+                "code": "f0ac"
+            },
+            {
+                "id": 167,
+                "class": "era-wrench",
+                "code": "f0ad"
+            },
+            {
+                "id": 168,
+                "class": "era-tasks",
+                "code": "f0ae"
+            },
+            {
+                "id": 169,
+                "class": "era-filter1",
+                "code": "f0b0"
+            },
+            {
+                "id": 170,
+                "class": "era-briefcase1",
+                "code": "f0b1"
+            },
+            {
+                "id": 171,
+                "class": "era-arrows-alt",
+                "code": "f0b2"
+            },
+            {
+                "id": 172,
+                "class": "era-group",
+                "code": "f0c0"
+            },
+            {
+                "id": 173,
+                "class": "era-users1",
+                "code": "f0c0"
+            },
+            {
+                "id": 174,
+                "class": "era-chain",
+                "code": "f0c1"
+            },
+            {
+                "id": 175,
+                "class": "era-link1",
+                "code": "f0c1"
+            },
+            {
+                "id": 176,
+                "class": "era-cloud1",
+                "code": "f0c2"
+            },
+            {
+                "id": 177,
+                "class": "era-flask",
+                "code": "f0c3"
+            },
+            {
+                "id": 178,
+                "class": "era-cut",
+                "code": "f0c4"
+            },
+            {
+                "id": 179,
+                "class": "era-scissors1",
+                "code": "f0c4"
+            },
+            {
+                "id": 180,
+                "class": "era-copy1",
+                "code": "f0c5"
+            },
+            {
+                "id": 181,
+                "class": "era-files-o",
+                "code": "f0c5"
+            },
+            {
+                "id": 182,
+                "class": "era-paperclip1",
+                "code": "f0c6"
+            },
+            {
+                "id": 183,
+                "class": "era-save1",
+                "code": "f0c7"
+            },
+            {
+                "id": 184,
+                "class": "era-square1",
+                "code": "f0c8"
+            },
+            {
+                "id": 185,
+                "class": "era-bars",
+                "code": "f0c9"
+            },
+            {
+                "id": 186,
+                "class": "era-navicon",
+                "code": "f0c9"
+            },
+            {
+                "id": 187,
+                "class": "era-list-ul",
+                "code": "f0ca"
+            },
+            {
+                "id": 188,
+                "class": "era-list-ol",
+                "code": "f0cb"
+            },
+            {
+                "id": 189,
+                "class": "era-strikethrough",
+                "code": "f0cc"
+            },
+            {
+                "id": 190,
+                "class": "era-underline1",
+                "code": "f0cd"
+            },
+            {
+                "id": 191,
+                "class": "era-table",
+                "code": "f0ce"
+            },
+            {
+                "id": 192,
+                "class": "era-magic",
+                "code": "f0d0"
+            },
+            {
+                "id": 193,
+                "class": "era-truck1",
+                "code": "f0d1"
+            },
+            {
+                "id": 194,
+                "class": "era-pinterest",
+                "code": "f0d2"
+            },
+            {
+                "id": 195,
+                "class": "era-pinterest-square",
+                "code": "f0d3"
+            },
+            {
+                "id": 196,
+                "class": "era-google-plus-square",
+                "code": "f0d4"
+            },
+            {
+                "id": 197,
+                "class": "era-google-plus",
+                "code": "f0d5"
+            },
+            {
+                "id": 198,
+                "class": "era-money",
+                "code": "f0d6"
+            },
+            {
+                "id": 199,
+                "class": "era-caret-down",
+                "code": "f0d7"
+            },
+            {
+                "id": 200,
+                "class": "era-caret-up",
+                "code": "f0d8"
+            },
+            {
+                "id": 201,
+                "class": "era-caret-left",
+                "code": "f0d9"
+            },
+            {
+                "id": 202,
+                "class": "era-caret-right",
+                "code": "f0da"
+            },
+            {
+                "id": 203,
+                "class": "era-columns1",
+                "code": "f0db"
+            },
+            {
+                "id": 204,
+                "class": "era-sort",
+                "code": "f0dc"
+            },
+            {
+                "id": 205,
+                "class": "era-unsorted",
+                "code": "f0dc"
+            },
+            {
+                "id": 206,
+                "class": "era-sort-desc",
+                "code": "f0dd"
+            },
+            {
+                "id": 207,
+                "class": "era-sort-down",
+                "code": "f0dd"
+            },
+            {
+                "id": 208,
+                "class": "era-sort-asc",
+                "code": "f0de"
+            },
+            {
+                "id": 209,
+                "class": "era-sort-up",
+                "code": "f0de"
+            },
+            {
+                "id": 210,
+                "class": "era-envelope",
+                "code": "f0e0"
+            },
+            {
+                "id": 211,
+                "class": "era-linkedin1",
+                "code": "f0e1"
+            },
+            {
+                "id": 212,
+                "class": "era-rotate-left",
+                "code": "f0e2"
+            },
+            {
+                "id": 213,
+                "class": "era-undo",
+                "code": "f0e2"
+            },
+            {
+                "id": 214,
+                "class": "era-gavel",
+                "code": "f0e3"
+            },
+            {
+                "id": 215,
+                "class": "era-legal",
+                "code": "f0e3"
+            },
+            {
+                "id": 216,
+                "class": "era-dashboard",
+                "code": "f0e4"
+            },
+            {
+                "id": 217,
+                "class": "era-tachometer",
+                "code": "f0e4"
+            },
+            {
+                "id": 218,
+                "class": "era-comment-o",
+                "code": "f0e5"
+            },
+            {
+                "id": 219,
+                "class": "era-comments-o",
+                "code": "f0e6"
+            },
+            {
+                "id": 220,
+                "class": "era-bolt",
+                "code": "f0e7"
+            },
+            {
+                "id": 221,
+                "class": "era-flash",
+                "code": "f0e7"
+            },
+            {
+                "id": 222,
+                "class": "era-sitemap",
+                "code": "f0e8"
+            },
+            {
+                "id": 223,
+                "class": "era-umbrella1",
+                "code": "f0e9"
+            },
+            {
+                "id": 224,
+                "class": "era-clipboard1",
+                "code": "f0ea"
+            },
+            {
+                "id": 225,
+                "class": "era-paste",
+                "code": "f0ea"
+            },
+            {
+                "id": 226,
+                "class": "era-lightbulb-o",
+                "code": "f0eb"
+            },
+            {
+                "id": 227,
+                "class": "era-exchange",
+                "code": "f0ec"
+            },
+            {
+                "id": 228,
+                "class": "era-cloud-download",
+                "code": "f0ed"
+            },
+            {
+                "id": 229,
+                "class": "era-cloud-upload",
+                "code": "f0ee"
+            },
+            {
+                "id": 230,
+                "class": "era-user-md",
+                "code": "f0f0"
+            },
+            {
+                "id": 231,
+                "class": "era-stethoscope",
+                "code": "f0f1"
+            },
+            {
+                "id": 232,
+                "class": "era-suitcase",
+                "code": "f0f2"
+            },
+            {
+                "id": 233,
+                "class": "era-bell1",
+                "code": "f0f3"
+            },
+            {
+                "id": 234,
+                "class": "era-coffee1",
+                "code": "f0f4"
+            },
+            {
+                "id": 235,
+                "class": "era-cutlery",
+                "code": "f0f5"
+            },
+            {
+                "id": 236,
+                "class": "era-file-text-o",
+                "code": "f0f6"
+            },
+            {
+                "id": 237,
+                "class": "era-building-o",
+                "code": "f0f7"
+            },
+            {
+                "id": 238,
+                "class": "era-hospital-o",
+                "code": "f0f8"
+            },
+            {
+                "id": 239,
+                "class": "era-ambulance",
+                "code": "f0f9"
+            },
+            {
+                "id": 240,
+                "class": "era-medkit",
+                "code": "f0fa"
+            },
+            {
+                "id": 241,
+                "class": "era-fighter-jet",
+                "code": "f0fb"
+            },
+            {
+                "id": 242,
+                "class": "era-beer",
+                "code": "f0fc"
+            },
+            {
+                "id": 243,
+                "class": "era-h-square",
+                "code": "f0fd"
+            },
+            {
+                "id": 244,
+                "class": "era-plus-square1",
+                "code": "f0fe"
+            },
+            {
+                "id": 245,
+                "class": "era-angle-double-left",
+                "code": "f100"
+            },
+            {
+                "id": 246,
+                "class": "era-angle-double-right",
+                "code": "f101"
+            },
+            {
+                "id": 247,
+                "class": "era-angle-double-up",
+                "code": "f102"
+            },
+            {
+                "id": 248,
+                "class": "era-angle-double-down",
+                "code": "f103"
+            },
+            {
+                "id": 249,
+                "class": "era-angle-left",
+                "code": "f104"
+            },
+            {
+                "id": 250,
+                "class": "era-angle-right",
+                "code": "f105"
+            },
+            {
+                "id": 251,
+                "class": "era-angle-up",
+                "code": "f106"
+            },
+            {
+                "id": 252,
+                "class": "era-angle-down",
+                "code": "f107"
+            },
+            {
+                "id": 253,
+                "class": "era-desktop",
+                "code": "f108"
+            },
+            {
+                "id": 254,
+                "class": "era-laptop",
+                "code": "f109"
+            },
+            {
+                "id": 255,
+                "class": "era-tablet1",
+                "code": "f10a"
+            },
+            {
+                "id": 256,
+                "class": "era-mobile",
+                "code": "f10b"
+            },
+            {
+                "id": 257,
+                "class": "era-mobile-phone",
+                "code": "f10b"
+            },
+            {
+                "id": 258,
+                "class": "era-circle-o",
+                "code": "f10c"
+            },
+            {
+                "id": 259,
+                "class": "era-quote-left",
+                "code": "f10d"
+            },
+            {
+                "id": 260,
+                "class": "era-quote-right",
+                "code": "f10e"
+            },
+            {
+                "id": 261,
+                "class": "era-spinner",
+                "code": "f110"
+            },
+            {
+                "id": 262,
+                "class": "era-circle1",
+                "code": "f111"
+            },
+            {
+                "id": 263,
+                "class": "era-mail-reply",
+                "code": "f112"
+            },
+            {
+                "id": 264,
+                "class": "era-reply",
+                "code": "f112"
+            },
+            {
+                "id": 265,
+                "class": "era-github-alt",
+                "code": "f113"
+            },
+            {
+                "id": 266,
+                "class": "era-folder-o",
+                "code": "f114"
+            },
+            {
+                "id": 267,
+                "class": "era-folder-open-o",
+                "code": "f115"
+            },
+            {
+                "id": 268,
+                "class": "era-smile-o",
+                "code": "f118"
+            },
+            {
+                "id": 269,
+                "class": "era-frown-o",
+                "code": "f119"
+            },
+            {
+                "id": 270,
+                "class": "era-meh-o",
+                "code": "f11a"
+            },
+            {
+                "id": 271,
+                "class": "era-gamepad",
+                "code": "f11b"
+            },
+            {
+                "id": 272,
+                "class": "era-keyboard-o",
+                "code": "f11c"
+            },
+            {
+                "id": 273,
+                "class": "era-flag-o",
+                "code": "f11d"
+            },
+            {
+                "id": 274,
+                "class": "era-flag-checkered",
+                "code": "f11e"
+            },
+            {
+                "id": 275,
+                "class": "era-terminal1",
+                "code": "f120"
+            },
+            {
+                "id": 276,
+                "class": "era-code1",
+                "code": "f121"
+            },
+            {
+                "id": 277,
+                "class": "era-mail-reply-all",
+                "code": "f122"
+            },
+            {
+                "id": 278,
+                "class": "era-reply-all",
+                "code": "f122"
+            },
+            {
+                "id": 279,
+                "class": "era-star-half-empty",
+                "code": "f123"
+            },
+            {
+                "id": 280,
+                "class": "era-star-half-full",
+                "code": "f123"
+            },
+            {
+                "id": 281,
+                "class": "era-star-half-o",
+                "code": "f123"
+            },
+            {
+                "id": 282,
+                "class": "era-location-arrow",
+                "code": "f124"
+            },
+            {
+                "id": 283,
+                "class": "era-crop1",
+                "code": "f125"
+            },
+            {
+                "id": 284,
+                "class": "era-code-fork",
+                "code": "f126"
+            },
+            {
+                "id": 285,
+                "class": "era-chain-broken",
+                "code": "f127"
+            },
+            {
+                "id": 286,
+                "class": "era-unlink",
+                "code": "f127"
+            },
+            {
+                "id": 287,
+                "class": "era-info1",
+                "code": "f129"
+            },
+            {
+                "id": 288,
+                "class": "era-exclamation",
+                "code": "f12a"
+            },
+            {
+                "id": 289,
+                "class": "era-superscript",
+                "code": "f12b"
+            },
+            {
+                "id": 290,
+                "class": "era-subscript",
+                "code": "f12c"
+            },
+            {
+                "id": 291,
+                "class": "era-eraser",
+                "code": "f12d"
+            },
+            {
+                "id": 292,
+                "class": "era-puzzle-piece",
+                "code": "f12e"
+            },
+            {
+                "id": 293,
+                "class": "era-microphone",
+                "code": "f130"
+            },
+            {
+                "id": 294,
+                "class": "era-microphone-slash",
+                "code": "f131"
+            },
+            {
+                "id": 295,
+                "class": "era-shield1",
+                "code": "f132"
+            },
+            {
+                "id": 296,
+                "class": "era-calendar-o",
+                "code": "f133"
+            },
+            {
+                "id": 297,
+                "class": "era-fire-extinguisher",
+                "code": "f134"
+            },
+            {
+                "id": 298,
+                "class": "era-rocket",
+                "code": "f135"
+            },
+            {
+                "id": 299,
+                "class": "era-maxcdn",
+                "code": "f136"
+            },
+            {
+                "id": 300,
+                "class": "era-chevron-circle-left",
+                "code": "f137"
+            },
+            {
+                "id": 301,
+                "class": "era-chevron-circle-right",
+                "code": "f138"
+            },
+            {
+                "id": 302,
+                "class": "era-chevron-circle-up",
+                "code": "f139"
+            },
+            {
+                "id": 303,
+                "class": "era-chevron-circle-down",
+                "code": "f13a"
+            },
+            {
+                "id": 304,
+                "class": "era-html5",
+                "code": "f13b"
+            },
+            {
+                "id": 305,
+                "class": "era-css3",
+                "code": "f13c"
+            },
+            {
+                "id": 306,
+                "class": "era-anchor1",
+                "code": "f13d"
+            },
+            {
+                "id": 307,
+                "class": "era-unlock-alt",
+                "code": "f13e"
+            },
+            {
+                "id": 308,
+                "class": "era-bullseye",
+                "code": "f140"
+            },
+            {
+                "id": 309,
+                "class": "era-ellipsis-h",
+                "code": "f141"
+            },
+            {
+                "id": 310,
+                "class": "era-ellipsis-v",
+                "code": "f142"
+            },
+            {
+                "id": 311,
+                "class": "era-rss-square",
+                "code": "f143"
+            },
+            {
+                "id": 312,
+                "class": "era-play-circle1",
+                "code": "f144"
+            },
+            {
+                "id": 313,
+                "class": "era-ticket",
+                "code": "f145"
+            },
+            {
+                "id": 314,
+                "class": "era-minus-square1",
+                "code": "f146"
+            },
+            {
+                "id": 315,
+                "class": "era-minus-square-o",
+                "code": "f147"
+            },
+            {
+                "id": 316,
+                "class": "era-level-up",
+                "code": "f148"
+            },
+            {
+                "id": 317,
+                "class": "era-level-down",
+                "code": "f149"
+            },
+            {
+                "id": 318,
+                "class": "era-check-square1",
+                "code": "f14a"
+            },
+            {
+                "id": 319,
+                "class": "era-pencil-square",
+                "code": "f14b"
+            },
+            {
+                "id": 320,
+                "class": "era-external-link-square",
+                "code": "f14c"
+            },
+            {
+                "id": 321,
+                "class": "era-share-square",
+                "code": "f14d"
+            },
+            {
+                "id": 322,
+                "class": "era-compass1",
+                "code": "f14e"
+            },
+            {
+                "id": 323,
+                "class": "era-caret-square-o-down",
+                "code": "f150"
+            },
+            {
+                "id": 324,
+                "class": "era-toggle-down",
+                "code": "f150"
+            },
+            {
+                "id": 325,
+                "class": "era-caret-square-o-up",
+                "code": "f151"
+            },
+            {
+                "id": 326,
+                "class": "era-toggle-up",
+                "code": "f151"
+            },
+            {
+                "id": 327,
+                "class": "era-caret-square-o-right",
+                "code": "f152"
+            },
+            {
+                "id": 328,
+                "class": "era-toggle-right1",
+                "code": "f152"
+            },
+            {
+                "id": 329,
+                "class": "era-eur",
+                "code": "f153"
+            },
+            {
+                "id": 330,
+                "class": "era-euro",
+                "code": "f153"
+            },
+            {
+                "id": 331,
+                "class": "era-gbp",
+                "code": "f154"
+            },
+            {
+                "id": 332,
+                "class": "era-dollar",
+                "code": "f155"
+            },
+            {
+                "id": 333,
+                "class": "era-usd",
+                "code": "f155"
+            },
+            {
+                "id": 334,
+                "class": "era-bitcoin",
+                "code": "f15a"
+            },
+            {
+                "id": 335,
+                "class": "era-btc",
+                "code": "f15a"
+            },
+            {
+                "id": 336,
+                "class": "era-file1",
+                "code": "f15b"
+            },
+            {
+                "id": 337,
+                "class": "era-file-text1",
+                "code": "f15c"
+            },
+            {
+                "id": 338,
+                "class": "era-sort-alpha-asc",
+                "code": "f15d"
+            },
+            {
+                "id": 339,
+                "class": "era-sort-alpha-desc",
+                "code": "f15e"
+            },
+            {
+                "id": 340,
+                "class": "era-sort-amount-asc",
+                "code": "f160"
+            },
+            {
+                "id": 341,
+                "class": "era-sort-amount-desc",
+                "code": "f161"
+            },
+            {
+                "id": 342,
+                "class": "era-sort-numeric-asc",
+                "code": "f162"
+            },
+            {
+                "id": 343,
+                "class": "era-sort-numeric-desc",
+                "code": "f163"
+            },
+            {
+                "id": 344,
+                "class": "era-thumbs-up1",
+                "code": "f164"
+            },
+            {
+                "id": 345,
+                "class": "era-thumbs-down1",
+                "code": "f165"
+            },
+            {
+                "id": 346,
+                "class": "era-youtube-square",
+                "code": "f166"
+            },
+            {
+                "id": 347,
+                "class": "era-youtube1",
+                "code": "f167"
+            },
+            {
+                "id": 348,
+                "class": "era-youtube-play",
+                "code": "f16a"
+            },
+            {
+                "id": 349,
+                "class": "era-dropbox",
+                "code": "f16b"
+            },
+            {
+                "id": 350,
+                "class": "era-stack-overflow",
+                "code": "f16c"
+            },
+            {
+                "id": 351,
+                "class": "era-instagram1",
+                "code": "f16d"
+            },
+            {
+                "id": 352,
+                "class": "era-adn",
+                "code": "f170"
+            },
+            {
+                "id": 353,
+                "class": "era-tumblr",
+                "code": "f173"
+            },
+            {
+                "id": 354,
+                "class": "era-tumblr-square",
+                "code": "f174"
+            },
+            {
+                "id": 355,
+                "class": "era-long-arrow-down",
+                "code": "f175"
+            },
+            {
+                "id": 356,
+                "class": "era-long-arrow-up",
+                "code": "f176"
+            },
+            {
+                "id": 357,
+                "class": "era-long-arrow-left",
+                "code": "f177"
+            },
+            {
+                "id": 358,
+                "class": "era-long-arrow-right",
+                "code": "f178"
+            },
+            {
+                "id": 359,
+                "class": "era-apple",
+                "code": "f179"
+            },
+            {
+                "id": 360,
+                "class": "era-windows",
+                "code": "f17a"
+            },
+            {
+                "id": 361,
+                "class": "era-android",
+                "code": "f17b"
+            },
+            {
+                "id": 362,
+                "class": "era-linux",
+                "code": "f17c"
+            },
+            {
+                "id": 363,
+                "class": "era-dribble",
+                "code": "f17d"
+            },
+            {
+                "id": 364,
+                "class": "era-skype",
+                "code": "f17e"
+            },
+            {
+                "id": 365,
+                "class": "era-trello1",
+                "code": "f181"
+            },
+            {
+                "id": 366,
+                "class": "era-female",
+                "code": "f182"
+            },
+            {
+                "id": 367,
+                "class": "era-male",
+                "code": "f183"
+            },
+            {
+                "id": 368,
+                "class": "era-gittip",
+                "code": "f184"
+            },
+            {
+                "id": 369,
+                "class": "era-gratipay",
+                "code": "f184"
+            },
+            {
+                "id": 370,
+                "class": "era-sun-o",
+                "code": "f185"
+            },
+            {
+                "id": 371,
+                "class": "era-moon-o",
+                "code": "f186"
+            },
+            {
+                "id": 372,
+                "class": "era-archive1",
+                "code": "f187"
+            },
+            {
+                "id": 373,
+                "class": "era-pagelines",
+                "code": "f18c"
+            },
+            {
+                "id": 374,
+                "class": "era-stack-exchange",
+                "code": "f18d"
+            },
+            {
+                "id": 375,
+                "class": "era-arrow-circle-o-right",
+                "code": "f18e"
+            },
+            {
+                "id": 376,
+                "class": "era-arrow-circle-o-left",
+                "code": "f190"
+            },
+            {
+                "id": 377,
+                "class": "era-caret-square-o-left",
+                "code": "f191"
+            },
+            {
+                "id": 378,
+                "class": "era-toggle-left1",
+                "code": "f191"
+            },
+            {
+                "id": 379,
+                "class": "era-dot-circle-o",
+                "code": "f192"
+            },
+            {
+                "id": 380,
+                "class": "era-wheelchair",
+                "code": "f193"
+            },
+            {
+                "id": 381,
+                "class": "era-vimeo-square",
+                "code": "f194"
+            },
+            {
+                "id": 382,
+                "class": "era-plus-square-o",
+                "code": "f196"
+            },
+            {
+                "id": 383,
+                "class": "era-space-shuttle",
+                "code": "f197"
+            },
+            {
+                "id": 384,
+                "class": "era-slack1",
+                "code": "f198"
+            },
+            {
+                "id": 385,
+                "class": "era-envelope-square",
+                "code": "f199"
+            },
+            {
+                "id": 386,
+                "class": "era-wordpress",
+                "code": "f19a"
+            },
+            {
+                "id": 387,
+                "class": "era-bank",
+                "code": "f19c"
+            },
+            {
+                "id": 388,
+                "class": "era-institution",
+                "code": "f19c"
+            },
+            {
+                "id": 389,
+                "class": "era-university",
+                "code": "f19c"
+            },
+            {
+                "id": 390,
+                "class": "era-graduation-cap",
+                "code": "f19d"
+            },
+            {
+                "id": 391,
+                "class": "era-mortar-board",
+                "code": "f19d"
+            },
+            {
+                "id": 392,
+                "class": "era-yahoo",
+                "code": "f19e"
+            },
+            {
+                "id": 393,
+                "class": "era-google",
+                "code": "f1a0"
+            },
+            {
+                "id": 394,
+                "class": "era-herdsman",
+                "code": "f1a8"
+            },
+            {
+                "id": 395,
+                "class": "era-joomla",
+                "code": "f1aa"
+            },
+            {
+                "id": 396,
+                "class": "era-language",
+                "code": "f1ab"
+            },
+            {
+                "id": 397,
+                "class": "era-fax",
+                "code": "f1ac"
+            },
+            {
+                "id": 398,
+                "class": "era-building",
+                "code": "f1ad"
+            },
+            {
+                "id": 399,
+                "class": "era-child",
+                "code": "f1ae"
+            },
+            {
+                "id": 400,
+                "class": "era-paw",
+                "code": "f1b0"
+            },
+            {
+                "id": 401,
+                "class": "era-spoon",
+                "code": "f1b1"
+            },
+            {
+                "id": 402,
+                "class": "era-cube",
+                "code": "f1b2"
+            },
+            {
+                "id": 403,
+                "class": "era-cubes",
+                "code": "f1b3"
+            },
+            {
+                "id": 404,
+                "class": "era-joint",
+                "code": "f1b6"
+            },
+            {
+                "id": 405,
+                "class": "era-joint-square",
+                "code": "f1b7"
+            },
+            {
+                "id": 406,
+                "class": "era-recycle",
+                "code": "f1b8"
+            },
+            {
+                "id": 407,
+                "class": "era-automobile",
+                "code": "f1b9"
+            },
+            {
+                "id": 408,
+                "class": "era-car",
+                "code": "f1b9"
+            },
+            {
+                "id": 409,
+                "class": "era-cab",
+                "code": "f1ba"
+            },
+            {
+                "id": 410,
+                "class": "era-taxi",
+                "code": "f1ba"
+            },
+            {
+                "id": 411,
+                "class": "era-tree",
+                "code": "f1bb"
+            },
+            {
+                "id": 412,
+                "class": "era-spotify",
+                "code": "f1bc"
+            },
+            {
+                "id": 413,
+                "class": "era-deviantart",
+                "code": "f1bd"
+            },
+            {
+                "id": 414,
+                "class": "era-soundcloud",
+                "code": "f1be"
+            },
+            {
+                "id": 415,
+                "class": "era-database1",
+                "code": "f1c0"
+            },
+            {
+                "id": 416,
+                "class": "era-file-pdf-o",
+                "code": "f1c1"
+            },
+            {
+                "id": 417,
+                "class": "era-file-word-o",
+                "code": "f1c2"
+            },
+            {
+                "id": 418,
+                "class": "era-file-excel-o",
+                "code": "f1c3"
+            },
+            {
+                "id": 419,
+                "class": "era-file-powerpoint-o",
+                "code": "f1c4"
+            },
+            {
+                "id": 420,
+                "class": "era-file-image-o",
+                "code": "f1c5"
+            },
+            {
+                "id": 421,
+                "class": "era-file-photo-o",
+                "code": "f1c5"
+            },
+            {
+                "id": 422,
+                "class": "era-file-picture-o",
+                "code": "f1c5"
+            },
+            {
+                "id": 423,
+                "class": "era-file-archive-o",
+                "code": "f1c6"
+            },
+            {
+                "id": 424,
+                "class": "era-file-zip-o",
+                "code": "f1c6"
+            },
+            {
+                "id": 425,
+                "class": "era-file-audio-o",
+                "code": "f1c7"
+            },
+            {
+                "id": 426,
+                "class": "era-file-sound-o",
+                "code": "f1c7"
+            },
+            {
+                "id": 427,
+                "class": "era-file-movie-o",
+                "code": "f1c8"
+            },
+            {
+                "id": 428,
+                "class": "era-file-video-o",
+                "code": "f1c8"
+            },
+            {
+                "id": 429,
+                "class": "era-file-code-o",
+                "code": "f1c9"
+            },
+            {
+                "id": 430,
+                "class": "era-vine",
+                "code": "f1ca"
+            },
+            {
+                "id": 431,
+                "class": "era-codepen1",
+                "code": "f1cb"
+            },
+            {
+                "id": 432,
+                "class": "era-jsfiddle",
+                "code": "f1cc"
+            },
+            {
+                "id": 433,
+                "class": "era-life-bouy",
+                "code": "f1cd"
+            },
+            {
+                "id": 434,
+                "class": "era-life-buoy1",
+                "code": "f1cd"
+            },
+            {
+                "id": 435,
+                "class": "era-life-ring",
+                "code": "f1cd"
+            },
+            {
+                "id": 436,
+                "class": "era-life-saver",
+                "code": "f1cd"
+            },
+            {
+                "id": 437,
+                "class": "era-support",
+                "code": "f1cd"
+            },
+            {
+                "id": 438,
+                "class": "era-circle-o-notch",
+                "code": "f1ce"
+            },
+            {
+                "id": 439,
+                "class": "era-git-square",
+                "code": "f1d2"
+            },
+            {
+                "id": 440,
+                "class": "era-git",
+                "code": "f1d3"
+            },
+            {
+                "id": 441,
+                "class": "era-hacker-news",
+                "code": "f1d4"
+            },
+            {
+                "id": 442,
+                "class": "era-y-combinator-square",
+                "code": "f1d4"
+            },
+            {
+                "id": 443,
+                "class": "era-yc-square",
+                "code": "f1d4"
+            },
+            {
+                "id": 444,
+                "class": "era-tencent-weibo",
+                "code": "f1d5"
+            },
+            {
+                "id": 445,
+                "class": "era-paper-plane",
+                "code": "f1d8"
+            },
+            {
+                "id": 446,
+                "class": "era-send1",
+                "code": "f1d8"
+            },
+            {
+                "id": 447,
+                "class": "era-paper-plane-o",
+                "code": "f1d9"
+            },
+            {
+                "id": 448,
+                "class": "era-send-o",
+                "code": "f1d9"
+            },
+            {
+                "id": 449,
+                "class": "era-history",
+                "code": "f1da"
+            },
+            {
+                "id": 450,
+                "class": "era-circle-thin",
+                "code": "f1db"
+            },
+            {
+                "id": 451,
+                "class": "era-header",
+                "code": "f1dc"
+            },
+            {
+                "id": 452,
+                "class": "era-paragraph",
+                "code": "f1dd"
+            },
+            {
+                "id": 453,
+                "class": "era-sliders1",
+                "code": "f1de"
+            },
+            {
+                "id": 454,
+                "class": "era-share-alt",
+                "code": "f1e0"
+            },
+            {
+                "id": 455,
+                "class": "era-share-alt-square",
+                "code": "f1e1"
+            },
+            {
+                "id": 456,
+                "class": "era-bomb",
+                "code": "f1e2"
+            },
+            {
+                "id": 457,
+                "class": "era-football-o",
+                "code": "f1e3"
+            },
+            {
+                "id": 458,
+                "class": "era-soccer-ball-o",
+                "code": "f1e3"
+            },
+            {
+                "id": 459,
+                "class": "era-tty",
+                "code": "f1e4"
+            },
+            {
+                "id": 460,
+                "class": "era-binoculars",
+                "code": "f1e5"
+            },
+            {
+                "id": 461,
+                "class": "era-plug",
+                "code": "f1e6"
+            },
+            {
+                "id": 462,
+                "class": "era-twitch",
+                "code": "f1e8"
+            },
+            {
+                "id": 463,
+                "class": "era-newspaper-o",
+                "code": "f1ea"
+            },
+            {
+                "id": 464,
+                "class": "era-wifi1",
+                "code": "f1eb"
+            },
+            {
+                "id": 465,
+                "class": "era-calculator",
+                "code": "f1ec"
+            },
+            {
+                "id": 466,
+                "class": "era-cc-visa",
+                "code": "f1f0"
+            },
+            {
+                "id": 467,
+                "class": "era-cc-mastercard",
+                "code": "f1f1"
+            },
+            {
+                "id": 468,
+                "class": "era-cc-amex",
+                "code": "f1f3"
+            },
+            {
+                "id": 469,
+                "class": "era-cc-paypal",
+                "code": "f1f4"
+            },
+            {
+                "id": 470,
+                "class": "era-bell-slash",
+                "code": "f1f6"
+            },
+            {
+                "id": 471,
+                "class": "era-bell-slash-o",
+                "code": "f1f7"
+            },
+            {
+                "id": 472,
+                "class": "era-trash1",
+                "code": "f1f8"
+            },
+            {
+                "id": 473,
+                "class": "era-copyright",
+                "code": "f1f9"
+            },
+            {
+                "id": 474,
+                "class": "era-at",
+                "code": "f1fa"
+            },
+            {
+                "id": 475,
+                "class": "era-eyedropper",
+                "code": "f1fb"
+            },
+            {
+                "id": 476,
+                "class": "era-paint-brush",
+                "code": "f1fc"
+            },
+            {
+                "id": 477,
+                "class": "era-birthday-cake",
+                "code": "f1fd"
+            },
+            {
+                "id": 478,
+                "class": "era-area-chart",
+                "code": "f1fe"
+            },
+            {
+                "id": 479,
+                "class": "era-pie-chart1",
+                "code": "f200"
+            },
+            {
+                "id": 480,
+                "class": "era-line-chart",
+                "code": "f201"
+            },
+            {
+                "id": 481,
+                "class": "era-toggle-off",
+                "code": "f204"
+            },
+            {
+                "id": 482,
+                "class": "era-toggle-on",
+                "code": "f205"
+            },
+            {
+                "id": 483,
+                "class": "era-bicycle",
+                "code": "f206"
+            },
+            {
+                "id": 484,
+                "class": "era-bus",
+                "code": "f207"
+            },
+            {
+                "id": 485,
+                "class": "era-angellist",
+                "code": "f209"
+            },
+            {
+                "id": 486,
+                "class": "era-cc",
+                "code": "f20a"
+            },
+            {
+                "id": 487,
+                "class": "era-ils",
+                "code": "f20b"
+            },
+            {
+                "id": 488,
+                "class": "era-shekel",
+                "code": "f20b"
+            },
+            {
+                "id": 489,
+                "class": "era-sheqel",
+                "code": "f20b"
+            },
+            {
+                "id": 490,
+                "class": "era-meanpath",
+                "code": "f20c"
+            },
+            {
+                "id": 491,
+                "class": "era-connectdevelop",
+                "code": "f20e"
+            },
+            {
+                "id": 492,
+                "class": "era-leanpub",
+                "code": "f212"
+            },
+            {
+                "id": 493,
+                "class": "era-sellsy",
+                "code": "f213"
+            },
+            {
+                "id": 494,
+                "class": "era-shirtsinbulk",
+                "code": "f214"
+            },
+            {
+                "id": 495,
+                "class": "era-simplybuilt",
+                "code": "f215"
+            },
+            {
+                "id": 496,
+                "class": "era-skyatlas",
+                "code": "f216"
+            },
+            {
+                "id": 497,
+                "class": "era-cart-plus",
+                "code": "f217"
+            },
+            {
+                "id": 498,
+                "class": "era-cart-arrow-down",
+                "code": "f218"
+            },
+            {
+                "id": 499,
+                "class": "era-diamond",
+                "code": "f219"
+            },
+            {
+                "id": 500,
+                "class": "era-ship",
+                "code": "f21a"
+            },
+            {
+                "id": 501,
+                "class": "era-user-secret",
+                "code": "f21b"
+            },
+            {
+                "id": 502,
+                "class": "era-motorcycle",
+                "code": "f21c"
+            },
+            {
+                "id": 503,
+                "class": "era-street-view",
+                "code": "f21d"
+            },
+            {
+                "id": 504,
+                "class": "era-heartbeat",
+                "code": "f21e"
+            },
+            {
+                "id": 505,
+                "class": "era-venus",
+                "code": "f221"
+            },
+            {
+                "id": 506,
+                "class": "era-mars",
+                "code": "f222"
+            },
+            {
+                "id": 507,
+                "class": "era-mercury",
+                "code": "f223"
+            },
+            {
+                "id": 508,
+                "class": "era-intersex",
+                "code": "f224"
+            },
+            {
+                "id": 509,
+                "class": "era-transgender",
+                "code": "f224"
+            },
+            {
+                "id": 510,
+                "class": "era-transgender-alt",
+                "code": "f225"
+            },
+            {
+                "id": 511,
+                "class": "era-venus-double",
+                "code": "f226"
+            },
+            {
+                "id": 512,
+                "class": "era-mars-double",
+                "code": "f227"
+            },
+            {
+                "id": 513,
+                "class": "era-venus-mars",
+                "code": "f228"
+            },
+            {
+                "id": 514,
+                "class": "era-mars-stroke",
+                "code": "f229"
+            },
+            {
+                "id": 515,
+                "class": "era-mars-stroke-v",
+                "code": "f22a"
+            },
+            {
+                "id": 516,
+                "class": "era-mars-stroke-h",
+                "code": "f22b"
+            },
+            {
+                "id": 517,
+                "class": "era-neuter",
+                "code": "f22c"
+            },
+            {
+                "id": 518,
+                "class": "era-genderless",
+                "code": "f22d"
+            },
+            {
+                "id": 519,
+                "class": "era-facebook-official",
+                "code": "f230"
+            },
+            {
+                "id": 520,
+                "class": "era-whatsapp",
+                "code": "f232"
+            },
+            {
+                "id": 521,
+                "class": "era-server1",
+                "code": "f233"
+            },
+            {
+                "id": 522,
+                "class": "era-user-plus1",
+                "code": "f234"
+            },
+            {
+                "id": 523,
+                "class": "era-user-times",
+                "code": "f235"
+            },
+            {
+                "id": 524,
+                "class": "era-bed",
+                "code": "f236"
+            },
+            {
+                "id": 525,
+                "class": "era-hotel",
+                "code": "f236"
+            },
+            {
+                "id": 526,
+                "class": "era-train",
+                "code": "f238"
+            },
+            {
+                "id": 527,
+                "class": "era-subway",
+                "code": "f239"
+            },
+            {
+                "id": 528,
+                "class": "era-expeditedssl",
+                "code": "f23e"
+            },
+            {
+                "id": 529,
+                "class": "era-battery1",
+                "code": "f240"
+            },
+            {
+                "id": 530,
+                "class": "era-battery-4",
+                "code": "f240"
+            },
+            {
+                "id": 531,
+                "class": "era-battery-full",
+                "code": "f240"
+            },
+            {
+                "id": 532,
+                "class": "era-battery-3",
+                "code": "f241"
+            },
+            {
+                "id": 533,
+                "class": "era-battery-three-quarters",
+                "code": "f241"
+            },
+            {
+                "id": 534,
+                "class": "era-battery-2",
+                "code": "f242"
+            },
+            {
+                "id": 535,
+                "class": "era-battery-half",
+                "code": "f242"
+            },
+            {
+                "id": 536,
+                "class": "era-battery-1",
+                "code": "f243"
+            },
+            {
+                "id": 537,
+                "class": "era-battery-quarter",
+                "code": "f243"
+            },
+            {
+                "id": 538,
+                "class": "era-battery-0",
+                "code": "f244"
+            },
+            {
+                "id": 539,
+                "class": "era-battery-empty",
+                "code": "f244"
+            },
+            {
+                "id": 540,
+                "class": "era-mouse-pointer1",
+                "code": "f245"
+            },
+            {
+                "id": 541,
+                "class": "era-i-cursor",
+                "code": "f246"
+            },
+            {
+                "id": 542,
+                "class": "era-object-group",
+                "code": "f247"
+            },
+            {
+                "id": 543,
+                "class": "era-object-ungroup",
+                "code": "f248"
+            },
+            {
+                "id": 544,
+                "class": "era-sticky-note",
+                "code": "f249"
+            },
+            {
+                "id": 545,
+                "class": "era-sticky-note-o",
+                "code": "f24a"
+            },
+            {
+                "id": 546,
+                "class": "era-cc-diners-club",
+                "code": "f24c"
+            },
+            {
+                "id": 547,
+                "class": "era-clone",
+                "code": "f24d"
+            },
+            {
+                "id": 548,
+                "class": "era-balance-scale",
+                "code": "f24e"
+            },
+            {
+                "id": 549,
+                "class": "era-hourglass-o",
+                "code": "f250"
+            },
+            {
+                "id": 550,
+                "class": "era-hourglass-1",
+                "code": "f251"
+            },
+            {
+                "id": 551,
+                "class": "era-hourglass-start",
+                "code": "f251"
+            },
+            {
+                "id": 552,
+                "class": "era-hourglass-2",
+                "code": "f252"
+            },
+            {
+                "id": 553,
+                "class": "era-hourglass-half",
+                "code": "f252"
+            },
+            {
+                "id": 554,
+                "class": "era-hourglass-3",
+                "code": "f253"
+            },
+            {
+                "id": 555,
+                "class": "era-hourglass-end",
+                "code": "f253"
+            },
+            {
+                "id": 556,
+                "class": "era-hourglass",
+                "code": "f254"
+            },
+            {
+                "id": 557,
+                "class": "era-hand-grab-o",
+                "code": "f255"
+            },
+            {
+                "id": 558,
+                "class": "era-hand-rock-o",
+                "code": "f255"
+            },
+            {
+                "id": 559,
+                "class": "era-hand-paper-o",
+                "code": "f256"
+            },
+            {
+                "id": 560,
+                "class": "era-hand-stop-o",
+                "code": "f256"
+            },
+            {
+                "id": 561,
+                "class": "era-hand-scissors-o",
+                "code": "f257"
+            },
+            {
+                "id": 562,
+                "class": "era-hand-pointer-o",
+                "code": "f25a"
+            },
+            {
+                "id": 563,
+                "class": "era-hand-peace-o",
+                "code": "f25b"
+            },
+            {
+                "id": 564,
+                "class": "era-trademark",
+                "code": "f25c"
+            },
+            {
+                "id": 565,
+                "class": "era-registered",
+                "code": "f25d"
+            },
+            {
+                "id": 566,
+                "class": "era-creative-commons",
+                "code": "f25e"
+            },
+            {
+                "id": 567,
+                "class": "era-get-pocket",
+                "code": "f265"
+            },
+            {
+                "id": 568,
+                "class": "era-wikipedia-w",
+                "code": "f266"
+            },
+            {
+                "id": 569,
+                "class": "era-safari",
+                "code": "f267"
+            },
+            {
+                "id": 570,
+                "class": "era-chrome1",
+                "code": "f268"
+            },
+            {
+                "id": 571,
+                "class": "era-firefox",
+                "code": "f269"
+            },
+            {
+                "id": 572,
+                "class": "era-opera",
+                "code": "f26a"
+            },
+            {
+                "id": 573,
+                "class": "era-internet-explorer",
+                "code": "f26b"
+            },
+            {
+                "id": 574,
+                "class": "era-television",
+                "code": "f26c"
+            },
+            {
+                "id": 575,
+                "class": "era-tv1",
+                "code": "f26c"
+            },
+            {
+                "id": 576,
+                "class": "era-calendar-plus-o",
+                "code": "f271"
+            },
+            {
+                "id": 577,
+                "class": "era-calendar-minus-o",
+                "code": "f272"
+            },
+            {
+                "id": 578,
+                "class": "era-calendar-times-o",
+                "code": "f273"
+            },
+            {
+                "id": 579,
+                "class": "era-calendar-check-o",
+                "code": "f274"
+            },
+            {
+                "id": 580,
+                "class": "era-industry",
+                "code": "f275"
+            },
+            {
+                "id": 581,
+                "class": "era-map-pin1",
+                "code": "f276"
+            },
+            {
+                "id": 582,
+                "class": "era-map-signs",
+                "code": "f277"
+            },
+            {
+                "id": 583,
+                "class": "era-map-o",
+                "code": "f278"
+            },
+            {
+                "id": 584,
+                "class": "era-map1",
+                "code": "f279"
+            },
+            {
+                "id": 585,
+                "class": "era-commenting",
+                "code": "f27a"
+            },
+            {
+                "id": 586,
+                "class": "era-commenting-o",
+                "code": "f27b"
+            },
+            {
+                "id": 587,
+                "class": "era-vimeo",
+                "code": "f27d"
+            },
+            {
+                "id": 588,
+                "class": "era-black-tie",
+                "code": "f27e"
+            },
+            {
+                "id": 589,
+                "class": "era-edge",
+                "code": "f282"
+            },
+            {
+                "id": 590,
+                "class": "era-credit-card-alt",
+                "code": "f283"
+            },
+            {
+                "id": 591,
+                "class": "era-castle",
+                "code": "f286"
+            },
+            {
+                "id": 592,
+                "class": "era-usb",
+                "code": "f287"
+            },
+            {
+                "id": 593,
+                "class": "era-mixcloud",
+                "code": "f289"
+            },
+            {
+                "id": 594,
+                "class": "era-pause-circle1",
+                "code": "f28b"
+            },
+            {
+                "id": 595,
+                "class": "era-pause-circle-o",
+                "code": "f28c"
+            },
+            {
+                "id": 596,
+                "class": "era-stop-circle1",
+                "code": "f28d"
+            },
+            {
+                "id": 597,
+                "class": "era-stop-circle-o",
+                "code": "f28e"
+            },
+            {
+                "id": 598,
+                "class": "era-shopping-bag1",
+                "code": "f290"
+            },
+            {
+                "id": 599,
+                "class": "era-shopping-basket",
+                "code": "f291"
+            },
+            {
+                "id": 600,
+                "class": "era-hashtag",
+                "code": "f292"
+            },
+            {
+                "id": 601,
+                "class": "era-bluetooth1",
+                "code": "f293"
+            },
+            {
+                "id": 602,
+                "class": "era-bluetooth-b",
+                "code": "f294"
+            },
+            {
+                "id": 603,
+                "class": "era-percent1",
+                "code": "f295"
+            },
+            {
+                "id": 604,
+                "class": "era-gitlab1",
+                "code": "f296"
+            },
+            {
+                "id": 605,
+                "class": "era-wpforms",
+                "code": "f298"
+            },
+            {
+                "id": 606,
+                "class": "era-envira",
+                "code": "f299"
+            },
+            {
+                "id": 607,
+                "class": "era-universal-access",
+                "code": "f29a"
+            },
+            {
+                "id": 608,
+                "class": "era-wheelchair-alt",
+                "code": "f29b"
+            },
+            {
+                "id": 609,
+                "class": "era-question-circle-o",
+                "code": "f29c"
+            },
+            {
+                "id": 610,
+                "class": "era-blind",
+                "code": "f29d"
+            },
+            {
+                "id": 611,
+                "class": "era-volume-control-phone",
+                "code": "f2a0"
+            },
+            {
+                "id": 612,
+                "class": "era-assistive-listening-systems",
+                "code": "f2a2"
+            },
+            {
+                "id": 613,
+                "class": "era-deaf",
+                "code": "f2a4"
+            },
+            {
+                "id": 614,
+                "class": "era-deafness",
+                "code": "f2a4"
+            },
+            {
+                "id": 615,
+                "class": "era-hard-of-hearing",
+                "code": "f2a4"
+            },
+            {
+                "id": 616,
+                "class": "era-sign-language",
+                "code": "f2a7"
+            },
+            {
+                "id": 617,
+                "class": "era-signing",
+                "code": "f2a7"
+            },
+            {
+                "id": 618,
+                "class": "era-low-vision",
+                "code": "f2a8"
+            },
+            {
+                "id": 619,
+                "class": "era-viadeo-square",
+                "code": "f2aa"
+            },
+            {
+                "id": 620,
+                "class": "era-snapchat",
+                "code": "f2ab"
+            },
+            {
+                "id": 621,
+                "class": "era-snapchat-ghost",
+                "code": "f2ac"
+            },
+            {
+                "id": 622,
+                "class": "era-snapchat-square",
+                "code": "f2ad"
+            },
+            {
+                "id": 623,
+                "class": "era-pied-piper",
+                "code": "f2ae"
+            },
+            {
+                "id": 624,
+                "class": "era-google-plus-circle",
+                "code": "f2b3"
+            },
+            {
+                "id": 625,
+                "class": "era-google-plus-official",
+                "code": "f2b3"
+            },
+            {
+                "id": 626,
+                "class": "era-fa",
+                "code": "f2b4"
+            },
+            {
+                "id": 627,
+                "class": "era-font-awesome",
+                "code": "f2b4"
+            },
+            {
+                "id": 628,
+                "class": "era-handshake-o",
+                "code": "f2b5"
+            },
+            {
+                "id": 629,
+                "class": "era-envelope-open",
+                "code": "f2b6"
+            },
+            {
+                "id": 630,
+                "class": "era-envelope-open-o",
+                "code": "f2b7"
+            },
+            {
+                "id": 631,
+                "class": "era-address-book",
+                "code": "f2b9"
+            },
+            {
+                "id": 632,
+                "class": "era-address-book-o",
+                "code": "f2ba"
+            },
+            {
+                "id": 633,
+                "class": "era-address-card",
+                "code": "f2bb"
+            },
+            {
+                "id": 634,
+                "class": "era-vcard",
+                "code": "f2bb"
+            },
+            {
+                "id": 635,
+                "class": "era-address-card-o",
+                "code": "f2bc"
+            },
+            {
+                "id": 636,
+                "class": "era-vcard-o",
+                "code": "f2bc"
+            },
+            {
+                "id": 637,
+                "class": "era-user-circle",
+                "code": "f2bd"
+            },
+            {
+                "id": 638,
+                "class": "era-user-circle-o",
+                "code": "f2be"
+            },
+            {
+                "id": 639,
+                "class": "era-user-o",
+                "code": "f2c0"
+            },
+            {
+                "id": 640,
+                "class": "era-id-badge",
+                "code": "f2c1"
+            },
+            {
+                "id": 641,
+                "class": "era-drivers-license",
+                "code": "f2c2"
+            },
+            {
+                "id": 642,
+                "class": "era-id-card",
+                "code": "f2c2"
+            },
+            {
+                "id": 643,
+                "class": "era-drivers-license-o",
+                "code": "f2c3"
+            },
+            {
+                "id": 644,
+                "class": "era-id-card-o",
+                "code": "f2c3"
+            },
+            {
+                "id": 645,
+                "class": "era-free-code-camp",
+                "code": "f2c5"
+            },
+            {
+                "id": 646,
+                "class": "era-telegram",
+                "code": "f2c6"
+            },
+            {
+                "id": 647,
+                "class": "era-thermometer1",
+                "code": "f2c7"
+            },
+            {
+                "id": 648,
+                "class": "era-thermometer-4",
+                "code": "f2c7"
+            },
+            {
+                "id": 649,
+                "class": "era-thermometer-full",
+                "code": "f2c7"
+            },
+            {
+                "id": 650,
+                "class": "era-thermometer-3",
+                "code": "f2c8"
+            },
+            {
+                "id": 651,
+                "class": "era-thermometer-three-quarters",
+                "code": "f2c8"
+            },
+            {
+                "id": 652,
+                "class": "era-thermometer-2",
+                "code": "f2c9"
+            },
+            {
+                "id": 653,
+                "class": "era-thermometer-half",
+                "code": "f2c9"
+            },
+            {
+                "id": 654,
+                "class": "era-thermometer-1",
+                "code": "f2ca"
+            },
+            {
+                "id": 655,
+                "class": "era-thermometer-quarter",
+                "code": "f2ca"
+            },
+            {
+                "id": 656,
+                "class": "era-thermometer-0",
+                "code": "f2cb"
+            },
+            {
+                "id": 657,
+                "class": "era-thermometer-empty",
+                "code": "f2cb"
+            },
+            {
+                "id": 658,
+                "class": "era-shower",
+                "code": "f2cc"
+            },
+            {
+                "id": 659,
+                "class": "era-bath",
+                "code": "f2cd"
+            },
+            {
+                "id": 660,
+                "class": "era-bathtub",
+                "code": "f2cd"
+            },
+            {
+                "id": 661,
+                "class": "era-s15",
+                "code": "f2cd"
+            },
+            {
+                "id": 662,
+                "class": "era-podcast",
+                "code": "f2ce"
+            },
+            {
+                "id": 663,
+                "class": "era-window-maximize",
+                "code": "f2d0"
+            },
+            {
+                "id": 664,
+                "class": "era-window-minimize",
+                "code": "f2d1"
+            },
+            {
+                "id": 665,
+                "class": "era-window-restore",
+                "code": "f2d2"
+            },
+            {
+                "id": 666,
+                "class": "era-times-rectangle",
+                "code": "f2d3"
+            },
+            {
+                "id": 667,
+                "class": "era-window-close",
+                "code": "f2d3"
+            },
+            {
+                "id": 668,
+                "class": "era-times-rectangle-o",
+                "code": "f2d4"
+            },
+            {
+                "id": 669,
+                "class": "era-window-close-o",
+                "code": "f2d4"
+            },
+            {
+                "id": 670,
+                "class": "era-bandcamp",
+                "code": "f2d5"
+            },
+            {
+                "id": 671,
+                "class": "era-grav",
+                "code": "f2d6"
+            },
+            {
+                "id": 672,
+                "class": "era-etsy",
+                "code": "f2d7"
+            },
+            {
+                "id": 673,
+                "class": "era-imdb",
+                "code": "f2d8"
+            },
+            {
+                "id": 674,
+                "class": "era-microchip",
+                "code": "f2db"
+            },
+            {
+                "id": 675,
+                "class": "era-snowflake-o",
+                "code": "f2dc"
+            },
+            {
+                "id": 676,
+                "class": "era-wpexplorer",
+                "code": "f2de"
+            },
+            {
+                "id": 677,
+                "class": "era-bug2",
+                "code": "e900"
+            },
+            {
+                "id": 678,
+                "class": "era-smile2",
+                "code": "e901"
+            },
+            {
+                "id": 679,
+                "class": "era-bug",
+                "code": "e902"
+            },
+            {
+                "id": 680,
+                "class": "era-laugh",
+                "code": "e903"
+            },
+            {
+                "id": 681,
+                "class": "era-key2",
+                "code": "e904"
+            },
+            {
+                "id": 682,
+                "class": "era-activity",
+                "code": "e905"
+            },
+            {
+                "id": 683,
+                "class": "era-airplay",
+                "code": "e906"
+            },
+            {
+                "id": 684,
+                "class": "era-alert-circle",
+                "code": "e907"
+            },
+            {
+                "id": 685,
+                "class": "era-alert-octagon",
+                "code": "e908"
+            },
+            {
+                "id": 686,
+                "class": "era-alert-triangle",
+                "code": "e909"
+            },
+            {
+                "id": 687,
+                "class": "era-align-center",
+                "code": "e90a"
+            },
+            {
+                "id": 688,
+                "class": "era-align-justify",
+                "code": "e90b"
+            },
+            {
+                "id": 689,
+                "class": "era-align-left",
+                "code": "e90c"
+            },
+            {
+                "id": 690,
+                "class": "era-align-right",
+                "code": "e90d"
+            },
+            {
+                "id": 691,
+                "class": "era-anchor",
+                "code": "e90e"
+            },
+            {
+                "id": 692,
+                "class": "era-aperture",
+                "code": "e90f"
+            },
+            {
+                "id": 693,
+                "class": "era-archive",
+                "code": "e910"
+            },
+            {
+                "id": 694,
+                "class": "era-arrow-down-circle",
+                "code": "e911"
+            },
+            {
+                "id": 695,
+                "class": "era-arrow-down-left",
+                "code": "e912"
+            },
+            {
+                "id": 696,
+                "class": "era-arrow-down-right",
+                "code": "e913"
+            },
+            {
+                "id": 697,
+                "class": "era-arrow-down",
+                "code": "e914"
+            },
+            {
+                "id": 698,
+                "class": "era-arrow-left-circle",
+                "code": "e915"
+            },
+            {
+                "id": 699,
+                "class": "era-arrow-left",
+                "code": "e916"
+            },
+            {
+                "id": 700,
+                "class": "era-arrow-right-circle",
+                "code": "e917"
+            },
+            {
+                "id": 701,
+                "class": "era-arrow-right",
+                "code": "e918"
+            },
+            {
+                "id": 702,
+                "class": "era-arrow-up-circle",
+                "code": "e919"
+            },
+            {
+                "id": 703,
+                "class": "era-arrow-up-left",
+                "code": "e91a"
+            },
+            {
+                "id": 704,
+                "class": "era-arrow-up-right",
+                "code": "e91b"
+            },
+            {
+                "id": 705,
+                "class": "era-arrow-up",
+                "code": "e91c"
+            },
+            {
+                "id": 706,
+                "class": "era-at-sign",
+                "code": "e91d"
+            },
+            {
+                "id": 707,
+                "class": "era-award",
+                "code": "e91e"
+            },
+            {
+                "id": 708,
+                "class": "era-bar-chart-2",
+                "code": "e91f"
+            },
+            {
+                "id": 709,
+                "class": "era-bar-chart",
+                "code": "e920"
+            },
+            {
+                "id": 710,
+                "class": "era-battery-charging",
+                "code": "e921"
+            },
+            {
+                "id": 711,
+                "class": "era-battery",
+                "code": "e922"
+            },
+            {
+                "id": 712,
+                "class": "era-bell-off",
+                "code": "e923"
+            },
+            {
+                "id": 713,
+                "class": "era-bell",
+                "code": "e924"
+            },
+            {
+                "id": 714,
+                "class": "era-bluetooth",
+                "code": "e925"
+            },
+            {
+                "id": 715,
+                "class": "era-bold",
+                "code": "e926"
+            },
+            {
+                "id": 716,
+                "class": "era-book-open",
+                "code": "e927"
+            },
+            {
+                "id": 717,
+                "class": "era-book",
+                "code": "e928"
+            },
+            {
+                "id": 718,
+                "class": "era-bookmark",
+                "code": "e929"
+            },
+            {
+                "id": 719,
+                "class": "era-box",
+                "code": "e92a"
+            },
+            {
+                "id": 720,
+                "class": "era-briefcase",
+                "code": "e92b"
+            },
+            {
+                "id": 721,
+                "class": "era-calendar",
+                "code": "e92c"
+            },
+            {
+                "id": 722,
+                "class": "era-camera-off",
+                "code": "e92d"
+            },
+            {
+                "id": 723,
+                "class": "era-camera",
+                "code": "e92e"
+            },
+            {
+                "id": 724,
+                "class": "era-cast",
+                "code": "e92f"
+            },
+            {
+                "id": 725,
+                "class": "era-check-circle",
+                "code": "e930"
+            },
+            {
+                "id": 726,
+                "class": "era-check-square",
+                "code": "e931"
+            },
+            {
+                "id": 727,
+                "class": "era-check",
+                "code": "e932"
+            },
+            {
+                "id": 728,
+                "class": "era-chevron-down",
+                "code": "e933"
+            },
+            {
+                "id": 729,
+                "class": "era-chevron-left",
+                "code": "e934"
+            },
+            {
+                "id": 730,
+                "class": "era-chevron-right",
+                "code": "e935"
+            },
+            {
+                "id": 731,
+                "class": "era-chevron-up",
+                "code": "e936"
+            },
+            {
+                "id": 732,
+                "class": "era-chevrons-down",
+                "code": "e937"
+            },
+            {
+                "id": 733,
+                "class": "era-chevrons-left",
+                "code": "e938"
+            },
+            {
+                "id": 734,
+                "class": "era-chevrons-right",
+                "code": "e939"
+            },
+            {
+                "id": 735,
+                "class": "era-chevrons-up",
+                "code": "e93a"
+            },
+            {
+                "id": 736,
+                "class": "era-chrome",
+                "code": "e93b"
+            },
+            {
+                "id": 737,
+                "class": "era-circle",
+                "code": "e93c"
+            },
+            {
+                "id": 738,
+                "class": "era-clipboard",
+                "code": "e93d"
+            },
+            {
+                "id": 739,
+                "class": "era-clock",
+                "code": "e93e"
+            },
+            {
+                "id": 740,
+                "class": "era-cloud-drizzle",
+                "code": "e93f"
+            },
+            {
+                "id": 741,
+                "class": "era-cloud-lightning",
+                "code": "e940"
+            },
+            {
+                "id": 742,
+                "class": "era-cloud-off",
+                "code": "e941"
+            },
+            {
+                "id": 743,
+                "class": "era-cloud-rain",
+                "code": "e942"
+            },
+            {
+                "id": 744,
+                "class": "era-cloud-snow",
+                "code": "e943"
+            },
+            {
+                "id": 745,
+                "class": "era-cloud",
+                "code": "e944"
+            },
+            {
+                "id": 746,
+                "class": "era-code",
+                "code": "e945"
+            },
+            {
+                "id": 747,
+                "class": "era-codepen",
+                "code": "e946"
+            },
+            {
+                "id": 748,
+                "class": "era-codesandbox",
+                "code": "e947"
+            },
+            {
+                "id": 749,
+                "class": "era-coffee",
+                "code": "e948"
+            },
+            {
+                "id": 750,
+                "class": "era-columns",
+                "code": "e949"
+            },
+            {
+                "id": 751,
+                "class": "era-command",
+                "code": "e94a"
+            },
+            {
+                "id": 752,
+                "class": "era-compass",
+                "code": "e94b"
+            },
+            {
+                "id": 753,
+                "class": "era-copy",
+                "code": "e94c"
+            },
+            {
+                "id": 754,
+                "class": "era-corner-down-left",
+                "code": "e94d"
+            },
+            {
+                "id": 755,
+                "class": "era-corner-down-right",
+                "code": "e94e"
+            },
+            {
+                "id": 756,
+                "class": "era-corner-left-down",
+                "code": "e94f"
+            },
+            {
+                "id": 757,
+                "class": "era-corner-left-up",
+                "code": "e950"
+            },
+            {
+                "id": 758,
+                "class": "era-corner-right-down",
+                "code": "e951"
+            },
+            {
+                "id": 759,
+                "class": "era-corner-right-up",
+                "code": "e952"
+            },
+            {
+                "id": 760,
+                "class": "era-corner-up-left",
+                "code": "e953"
+            },
+            {
+                "id": 761,
+                "class": "era-corner-up-right",
+                "code": "e954"
+            },
+            {
+                "id": 762,
+                "class": "era-cpu",
+                "code": "e955"
+            },
+            {
+                "id": 763,
+                "class": "era-credit-card",
+                "code": "e956"
+            },
+            {
+                "id": 764,
+                "class": "era-crop",
+                "code": "e957"
+            },
+            {
+                "id": 765,
+                "class": "era-crosshair",
+                "code": "e958"
+            },
+            {
+                "id": 766,
+                "class": "era-database",
+                "code": "e959"
+            },
+            {
+                "id": 767,
+                "class": "era-delete",
+                "code": "e95a"
+            },
+            {
+                "id": 768,
+                "class": "era-disc",
+                "code": "e95b"
+            },
+            {
+                "id": 769,
+                "class": "era-dollar-sign",
+                "code": "e95c"
+            },
+            {
+                "id": 770,
+                "class": "era-download-cloud",
+                "code": "e95d"
+            },
+            {
+                "id": 771,
+                "class": "era-download",
+                "code": "e95e"
+            },
+            {
+                "id": 772,
+                "class": "era-droplet",
+                "code": "e95f"
+            },
+            {
+                "id": 773,
+                "class": "era-edit-2",
+                "code": "e960"
+            },
+            {
+                "id": 774,
+                "class": "era-edit-3",
+                "code": "e961"
+            },
+            {
+                "id": 775,
+                "class": "era-edit",
+                "code": "e962"
+            },
+            {
+                "id": 776,
+                "class": "era-external-link",
+                "code": "e963"
+            },
+            {
+                "id": 777,
+                "class": "era-eye-off",
+                "code": "e964"
+            },
+            {
+                "id": 778,
+                "class": "era-eye",
+                "code": "e965"
+            },
+            {
+                "id": 779,
+                "class": "era-facebook",
+                "code": "e966"
+            },
+            {
+                "id": 780,
+                "class": "era-fast-forward",
+                "code": "e967"
+            },
+            {
+                "id": 781,
+                "class": "era-feather",
+                "code": "e968"
+            },
+            {
+                "id": 782,
+                "class": "era-figma",
+                "code": "e969"
+            },
+            {
+                "id": 783,
+                "class": "era-file-minus",
+                "code": "e96a"
+            },
+            {
+                "id": 784,
+                "class": "era-file-plus",
+                "code": "e96b"
+            },
+            {
+                "id": 785,
+                "class": "era-file-text",
+                "code": "e96c"
+            },
+            {
+                "id": 786,
+                "class": "era-file",
+                "code": "e96d"
+            },
+            {
+                "id": 787,
+                "class": "era-film",
+                "code": "e96e"
+            },
+            {
+                "id": 788,
+                "class": "era-filter",
+                "code": "e96f"
+            },
+            {
+                "id": 789,
+                "class": "era-flag",
+                "code": "e970"
+            },
+            {
+                "id": 790,
+                "class": "era-folder-minus",
+                "code": "e971"
+            },
+            {
+                "id": 791,
+                "class": "era-folder-plus",
+                "code": "e972"
+            },
+            {
+                "id": 792,
+                "class": "era-folder",
+                "code": "e973"
+            },
+            {
+                "id": 793,
+                "class": "era-framer",
+                "code": "e974"
+            },
+            {
+                "id": 794,
+                "class": "era-frown",
+                "code": "e975"
+            },
+            {
+                "id": 795,
+                "class": "era-gift",
+                "code": "e976"
+            },
+            {
+                "id": 796,
+                "class": "era-git-branch",
+                "code": "e977"
+            },
+            {
+                "id": 797,
+                "class": "era-git-commit",
+                "code": "e978"
+            },
+            {
+                "id": 798,
+                "class": "era-git-merge",
+                "code": "e979"
+            },
+            {
+                "id": 799,
+                "class": "era-git-pull-request",
+                "code": "e97a"
+            },
+            {
+                "id": 800,
+                "class": "era-github",
+                "code": "e97b"
+            },
+            {
+                "id": 801,
+                "class": "era-gitlab",
+                "code": "e97c"
+            },
+            {
+                "id": 802,
+                "class": "era-globe",
+                "code": "e97d"
+            },
+            {
+                "id": 803,
+                "class": "era-grid",
+                "code": "e97e"
+            },
+            {
+                "id": 804,
+                "class": "era-hard-drive",
+                "code": "e97f"
+            },
+            {
+                "id": 805,
+                "class": "era-hash",
+                "code": "e980"
+            },
+            {
+                "id": 806,
+                "class": "era-headphones",
+                "code": "e981"
+            },
+            {
+                "id": 807,
+                "class": "era-heart",
+                "code": "e982"
+            },
+            {
+                "id": 808,
+                "class": "era-help-circle",
+                "code": "e983"
+            },
+            {
+                "id": 809,
+                "class": "era-hexagon",
+                "code": "e984"
+            },
+            {
+                "id": 810,
+                "class": "era-home",
+                "code": "e985"
+            },
+            {
+                "id": 811,
+                "class": "era-image",
+                "code": "e986"
+            },
+            {
+                "id": 812,
+                "class": "era-inbox",
+                "code": "e987"
+            },
+            {
+                "id": 813,
+                "class": "era-info",
+                "code": "e988"
+            },
+            {
+                "id": 814,
+                "class": "era-instagram",
+                "code": "e989"
+            },
+            {
+                "id": 815,
+                "class": "era-italic",
+                "code": "e98a"
+            },
+            {
+                "id": 816,
+                "class": "era-key",
+                "code": "e98b"
+            },
+            {
+                "id": 817,
+                "class": "era-layers",
+                "code": "e98c"
+            },
+            {
+                "id": 818,
+                "class": "era-layout",
+                "code": "e98d"
+            },
+            {
+                "id": 819,
+                "class": "era-life-buoy",
+                "code": "e98e"
+            },
+            {
+                "id": 820,
+                "class": "era-link-2",
+                "code": "e98f"
+            },
+            {
+                "id": 821,
+                "class": "era-link",
+                "code": "e990"
+            },
+            {
+                "id": 822,
+                "class": "era-linkedin",
+                "code": "e991"
+            },
+            {
+                "id": 823,
+                "class": "era-list",
+                "code": "e992"
+            },
+            {
+                "id": 824,
+                "class": "era-loader",
+                "code": "e993"
+            },
+            {
+                "id": 825,
+                "class": "era-lock",
+                "code": "e994"
+            },
+            {
+                "id": 826,
+                "class": "era-log-in",
+                "code": "e995"
+            },
+            {
+                "id": 827,
+                "class": "era-log-out",
+                "code": "e996"
+            },
+            {
+                "id": 828,
+                "class": "era-mail",
+                "code": "e997"
+            },
+            {
+                "id": 829,
+                "class": "era-map-pin",
+                "code": "e998"
+            },
+            {
+                "id": 830,
+                "class": "era-map",
+                "code": "e999"
+            },
+            {
+                "id": 831,
+                "class": "era-maximize-2",
+                "code": "e99a"
+            },
+            {
+                "id": 832,
+                "class": "era-maximize",
+                "code": "e99b"
+            },
+            {
+                "id": 833,
+                "class": "era-meh",
+                "code": "e99c"
+            },
+            {
+                "id": 834,
+                "class": "era-menu",
+                "code": "e99d"
+            },
+            {
+                "id": 835,
+                "class": "era-message-circle",
+                "code": "e99e"
+            },
+            {
+                "id": 836,
+                "class": "era-message-square",
+                "code": "e99f"
+            },
+            {
+                "id": 837,
+                "class": "era-mic-off",
+                "code": "e9a0"
+            },
+            {
+                "id": 838,
+                "class": "era-mic",
+                "code": "e9a1"
+            },
+            {
+                "id": 839,
+                "class": "era-minimize-2",
+                "code": "e9a2"
+            },
+            {
+                "id": 840,
+                "class": "era-minimize",
+                "code": "e9a3"
+            },
+            {
+                "id": 841,
+                "class": "era-minus-circle",
+                "code": "e9a4"
+            },
+            {
+                "id": 842,
+                "class": "era-minus-square",
+                "code": "e9a5"
+            },
+            {
+                "id": 843,
+                "class": "era-minus",
+                "code": "e9a6"
+            },
+            {
+                "id": 844,
+                "class": "era-monitor",
+                "code": "e9a7"
+            },
+            {
+                "id": 845,
+                "class": "era-moon",
+                "code": "e9a8"
+            },
+            {
+                "id": 846,
+                "class": "era-more-horizontal",
+                "code": "e9a9"
+            },
+            {
+                "id": 847,
+                "class": "era-more-vertical",
+                "code": "e9aa"
+            },
+            {
+                "id": 848,
+                "class": "era-mouse-pointer",
+                "code": "e9ab"
+            },
+            {
+                "id": 849,
+                "class": "era-move",
+                "code": "e9ac"
+            },
+            {
+                "id": 850,
+                "class": "era-music",
+                "code": "e9ad"
+            },
+            {
+                "id": 851,
+                "class": "era-navigation-2",
+                "code": "e9ae"
+            },
+            {
+                "id": 852,
+                "class": "era-navigation",
+                "code": "e9af"
+            },
+            {
+                "id": 853,
+                "class": "era-octagon",
+                "code": "e9b0"
+            },
+            {
+                "id": 854,
+                "class": "era-package",
+                "code": "e9b1"
+            },
+            {
+                "id": 855,
+                "class": "era-paperclip",
+                "code": "e9b2"
+            },
+            {
+                "id": 856,
+                "class": "era-pause-circle",
+                "code": "e9b3"
+            },
+            {
+                "id": 857,
+                "class": "era-pause",
+                "code": "e9b4"
+            },
+            {
+                "id": 858,
+                "class": "era-pen-tool",
+                "code": "e9b5"
+            },
+            {
+                "id": 859,
+                "class": "era-percent",
+                "code": "e9b6"
+            },
+            {
+                "id": 860,
+                "class": "era-phone-call",
+                "code": "e9b7"
+            },
+            {
+                "id": 861,
+                "class": "era-phone-forwarded",
+                "code": "e9b8"
+            },
+            {
+                "id": 862,
+                "class": "era-phone-incoming",
+                "code": "e9b9"
+            },
+            {
+                "id": 863,
+                "class": "era-phone-missed",
+                "code": "e9ba"
+            },
+            {
+                "id": 864,
+                "class": "era-phone-off",
+                "code": "e9bb"
+            },
+            {
+                "id": 865,
+                "class": "era-phone-outgoing",
+                "code": "e9bc"
+            },
+            {
+                "id": 866,
+                "class": "era-phone",
+                "code": "e9bd"
+            },
+            {
+                "id": 867,
+                "class": "era-pie-chart",
+                "code": "e9be"
+            },
+            {
+                "id": 868,
+                "class": "era-play-circle",
+                "code": "e9bf"
+            },
+            {
+                "id": 869,
+                "class": "era-play",
+                "code": "e9c0"
+            },
+            {
+                "id": 870,
+                "class": "era-plus-circle",
+                "code": "e9c1"
+            },
+            {
+                "id": 871,
+                "class": "era-plus-square",
+                "code": "e9c2"
+            },
+            {
+                "id": 872,
+                "class": "era-plus",
+                "code": "e9c3"
+            },
+            {
+                "id": 873,
+                "class": "era-pocket",
+                "code": "e9c4"
+            },
+            {
+                "id": 874,
+                "class": "era-power",
+                "code": "e9c5"
+            },
+            {
+                "id": 875,
+                "class": "era-printer",
+                "code": "e9c6"
+            },
+            {
+                "id": 876,
+                "class": "era-radio",
+                "code": "e9c7"
+            },
+            {
+                "id": 877,
+                "class": "era-refresh-ccw",
+                "code": "e9c8"
+            },
+            {
+                "id": 878,
+                "class": "era-refresh-cw",
+                "code": "e9c9"
+            },
+            {
+                "id": 879,
+                "class": "era-repeat",
+                "code": "e9ca"
+            },
+            {
+                "id": 880,
+                "class": "era-rewind",
+                "code": "e9cb"
+            },
+            {
+                "id": 881,
+                "class": "era-rotate-ccw",
+                "code": "e9cc"
+            },
+            {
+                "id": 882,
+                "class": "era-rotate-cw",
+                "code": "e9cd"
+            },
+            {
+                "id": 883,
+                "class": "era-rss",
+                "code": "e9ce"
+            },
+            {
+                "id": 884,
+                "class": "era-save",
+                "code": "e9cf"
+            },
+            {
+                "id": 885,
+                "class": "era-scissors",
+                "code": "e9d0"
+            },
+            {
+                "id": 886,
+                "class": "era-search",
+                "code": "e9d1"
+            },
+            {
+                "id": 887,
+                "class": "era-send",
+                "code": "e9d2"
+            },
+            {
+                "id": 888,
+                "class": "era-server",
+                "code": "e9d3"
+            },
+            {
+                "id": 889,
+                "class": "era-settings",
+                "code": "e9d4"
+            },
+            {
+                "id": 890,
+                "class": "era-share-2",
+                "code": "e9d5"
+            },
+            {
+                "id": 891,
+                "class": "era-share",
+                "code": "e9d6"
+            },
+            {
+                "id": 892,
+                "class": "era-shield-off",
+                "code": "e9d7"
+            },
+            {
+                "id": 893,
+                "class": "era-shield",
+                "code": "e9d8"
+            },
+            {
+                "id": 894,
+                "class": "era-shopping-bag",
+                "code": "e9d9"
+            },
+            {
+                "id": 895,
+                "class": "era-shopping-cart",
+                "code": "e9da"
+            },
+            {
+                "id": 896,
+                "class": "era-shuffle",
+                "code": "e9db"
+            },
+            {
+                "id": 897,
+                "class": "era-sidebar",
+                "code": "e9dc"
+            },
+            {
+                "id": 898,
+                "class": "era-skip-back",
+                "code": "e9dd"
+            },
+            {
+                "id": 899,
+                "class": "era-skip-forward",
+                "code": "e9de"
+            },
+            {
+                "id": 900,
+                "class": "era-slack",
+                "code": "e9df"
+            },
+            {
+                "id": 901,
+                "class": "era-slash",
+                "code": "e9e0"
+            },
+            {
+                "id": 902,
+                "class": "era-sliders",
+                "code": "e9e1"
+            },
+            {
+                "id": 903,
+                "class": "era-smartphone",
+                "code": "e9e2"
+            },
+            {
+                "id": 904,
+                "class": "era-smile",
+                "code": "e9e3"
+            },
+            {
+                "id": 905,
+                "class": "era-speaker",
+                "code": "e9e4"
+            },
+            {
+                "id": 906,
+                "class": "era-square",
+                "code": "e9e5"
+            },
+            {
+                "id": 907,
+                "class": "era-star",
+                "code": "e9e6"
+            },
+            {
+                "id": 908,
+                "class": "era-stop-circle",
+                "code": "e9e7"
+            },
+            {
+                "id": 909,
+                "class": "era-sun",
+                "code": "e9e8"
+            },
+            {
+                "id": 910,
+                "class": "era-sunrise",
+                "code": "e9e9"
+            },
+            {
+                "id": 911,
+                "class": "era-sunset",
+                "code": "e9ea"
+            },
+            {
+                "id": 912,
+                "class": "era-tablet",
+                "code": "e9eb"
+            },
+            {
+                "id": 913,
+                "class": "era-tag",
+                "code": "e9ec"
+            },
+            {
+                "id": 914,
+                "class": "era-target",
+                "code": "e9ed"
+            },
+            {
+                "id": 915,
+                "class": "era-terminal",
+                "code": "e9ee"
+            },
+            {
+                "id": 916,
+                "class": "era-thermometer",
+                "code": "e9ef"
+            },
+            {
+                "id": 917,
+                "class": "era-thumbs-down",
+                "code": "e9f0"
+            },
+            {
+                "id": 918,
+                "class": "era-thumbs-up",
+                "code": "e9f1"
+            },
+            {
+                "id": 919,
+                "class": "era-toggle-left",
+                "code": "e9f2"
+            },
+            {
+                "id": 920,
+                "class": "era-toggle-right",
+                "code": "e9f3"
+            },
+            {
+                "id": 921,
+                "class": "era-trash-2",
+                "code": "e9f4"
+            },
+            {
+                "id": 922,
+                "class": "era-trash",
+                "code": "e9f5"
+            },
+            {
+                "id": 923,
+                "class": "era-trello",
+                "code": "e9f6"
+            },
+            {
+                "id": 924,
+                "class": "era-trending-down",
+                "code": "e9f7"
+            },
+            {
+                "id": 925,
+                "class": "era-trending-up",
+                "code": "e9f8"
+            },
+            {
+                "id": 926,
+                "class": "era-triangle",
+                "code": "e9f9"
+            },
+            {
+                "id": 927,
+                "class": "era-truck",
+                "code": "e9fa"
+            },
+            {
+                "id": 928,
+                "class": "era-tv",
+                "code": "e9fb"
+            },
+            {
+                "id": 929,
+                "class": "era-twitter",
+                "code": "e9fc"
+            },
+            {
+                "id": 930,
+                "class": "era-type",
+                "code": "e9fd"
+            },
+            {
+                "id": 931,
+                "class": "era-umbrella",
+                "code": "e9fe"
+            },
+            {
+                "id": 932,
+                "class": "era-underline",
+                "code": "e9ff"
+            },
+            {
+                "id": 933,
+                "class": "era-unlock",
+                "code": "ea00"
+            },
+            {
+                "id": 934,
+                "class": "era-upload-cloud",
+                "code": "ea01"
+            },
+            {
+                "id": 935,
+                "class": "era-upload",
+                "code": "ea02"
+            },
+            {
+                "id": 936,
+                "class": "era-user-check",
+                "code": "ea03"
+            },
+            {
+                "id": 937,
+                "class": "era-user-minus",
+                "code": "ea04"
+            },
+            {
+                "id": 938,
+                "class": "era-user-plus",
+                "code": "ea05"
+            },
+            {
+                "id": 939,
+                "class": "era-user-x",
+                "code": "ea06"
+            },
+            {
+                "id": 940,
+                "class": "era-user",
+                "code": "ea07"
+            },
+            {
+                "id": 941,
+                "class": "era-users",
+                "code": "ea08"
+            },
+            {
+                "id": 942,
+                "class": "era-video-off",
+                "code": "ea09"
+            },
+            {
+                "id": 943,
+                "class": "era-video",
+                "code": "ea0a"
+            },
+            {
+                "id": 944,
+                "class": "era-voicemail",
+                "code": "ea0b"
+            },
+            {
+                "id": 945,
+                "class": "era-volume-1",
+                "code": "ea0c"
+            },
+            {
+                "id": 946,
+                "class": "era-volume-2",
+                "code": "ea0d"
+            },
+            {
+                "id": 947,
+                "class": "era-volume-x",
+                "code": "ea0e"
+            },
+            {
+                "id": 948,
+                "class": "era-volume",
+                "code": "ea0f"
+            },
+            {
+                "id": 949,
+                "class": "era-watch",
+                "code": "ea10"
+            },
+            {
+                "id": 950,
+                "class": "era-wifi-off",
+                "code": "ea11"
+            },
+            {
+                "id": 951,
+                "class": "era-wifi",
+                "code": "ea12"
+            },
+            {
+                "id": 952,
+                "class": "era-wind",
+                "code": "ea13"
+            },
+            {
+                "id": 953,
+                "class": "era-x-circle",
+                "code": "ea14"
+            },
+            {
+                "id": 954,
+                "class": "era-x-octagon",
+                "code": "ea15"
+            },
+            {
+                "id": 955,
+                "class": "era-x-square",
+                "code": "ea16"
+            },
+            {
+                "id": 956,
+                "class": "era-x",
+                "code": "ea17"
+            },
+            {
+                "id": 957,
+                "class": "era-youtube",
+                "code": "ea18"
+            },
+            {
+                "id": 958,
+                "class": "era-zap-off",
+                "code": "ea19"
+            },
+            {
+                "id": 959,
+                "class": "era-zap",
+                "code": "ea1a"
+            },
+            {
+                "id": 960,
+                "class": "era-zoom-in",
+                "code": "ea1b"
+            },
+            {
+                "id": 961,
+                "class": "era-zoom-out",
+                "code": "ea1c"
+            }
+        ]
+    }
+}
