@@ -1,0 +1,842 @@
+{
+    "1": {
+        "artist": "Dusko Klis",
+        "name": "Bez tebe je gorko vino",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=fg_FlA-7BSY",
+        "background": "#ffffff"
+    },
+    "2": {
+        "artist": "Dragan Kojic Keba",
+        "name": "Prazno srce, prazna dusa",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=o9skrxD14NA",
+        "background": "#ffffff"
+    },
+    "3": {
+        "artist": "Dragan Kojic Keba",
+        "name": "Plavo oko plakalo je",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=-l7Ss1iOKoQ",
+        "background": "#ffffff"
+    },
+    "4": {
+        "artist": "Dragan Kojic Keba",
+        "name": "Bre gidi dzanum",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=Wnz6AOyLhto",
+        "background": "#ffffff"
+    },
+    "5": {
+        "artist": "Dragan Kojic Keba",
+        "name": "Nemam drage",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=mASc5b_0xJ0",
+        "background": "#ffffff"
+    },
+    "6": {
+        "artist": "Toma Zdravkovic",
+        "name": "Crno vino",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=iJsXHZ3id6U",
+        "background": "#ffffff"
+    },
+    "7": {
+        "artist": "Toma Zdravkovic",
+        "name": "Jelena",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=f14oiicNmLs",
+        "background": "#ffffff"
+    },
+    "8": {
+        "artist": "Silvana Armenulic",
+        "name": "Rane moje",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=iBNaVN_Hz9o",
+        "background": "#ffffff"
+    },
+    "9": {
+        "artist": "Silvana Armenulic",
+        "name": "Nocas mi srce pati",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=nSwl6E-LS08",
+        "background": "#ffffff"
+    },
+    "10": {
+        "artist": "Toma Zdravkovic",
+        "name": "Nocas mi srce pati",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=k8i01HWeKAo",
+        "background": "#ffffff"
+    },
+    "11": {
+        "artist": "Toma Zdravkovic",
+        "name": "Svirajte nocas samo za nju",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=OlcpTJiVrls",
+        "background": "#ffffff"
+    },
+    "12": {
+        "artist": "Toma Zdravkovic",
+        "name": "Dotako sam dno zivota",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=aMLGLx7dwWA",
+        "background": "#ffffff"
+    },
+    "13": {
+        "artist": "Toma Zdravkovic",
+        "name": "Dal je moguce",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=xRR9GkmJ9z8",
+        "background": "#ffffff"
+    },
+    "14": {
+        "artist": "Asim Brkan",
+        "name": "Jednom sam i ja voleo",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=oeXLhJKg43M",
+        "background": "#ffffff"
+    },
+    "15": {
+        "artist": "Mahir Palos",
+        "name": "Dvije ruze",
+        "status": "in progress",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=hYgm6WmApN8",
+        "background": "#ffffff"
+    },
+    "16": {
+        "artist": "Toma Zdravkovic",
+        "name": "Za Ljiljanu",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=drRbq-h8DdI",
+        "background": "#ffffff"
+    },
+    "17": {
+        "artist": "Halid Beslic",
+        "name": "Sjecam se",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=ts5gbqg6-yA",
+        "background": "#ffffff"
+    },
+    "18": {
+        "artist": "Halid Beslic",
+        "name": "Zasto zu ti oci tuzne",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=qvbv6dlMlZQ",
+        "background": "#ffffff"
+    },
+    "19": {
+        "artist": "Halid Beslic",
+        "name": "More i planine",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=S1cUvFIZvwc",
+        "background": "#ffffff"
+    },
+    "20": {
+        "artist": "Halid Beslic",
+        "name": "Iznad Tesnja",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=EVjUonn9PXY",
+        "background": "#ffffff"
+    },
+    "21": {
+        "artist": "Halid Beslic",
+        "name": "Robinja",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=b7EW4bu3a4o",
+        "background": "#ffffff"
+    },
+    "22": {
+        "artist": "Halid Beslic",
+        "name": "Snijegovi hladni dolaze",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=WsX7aJTLQtA",
+        "background": "#ffffff"
+    },
+    "23": {
+        "artist": "Halid Beslic",
+        "name": "Ta je zena varala me",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=IaVblo1iymw",
+        "background": "#ffffff"
+    },
+    "24": {
+        "artist": "Halid Beslic",
+        "name": "Sijedi starac",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=aq1OTukPH4g",
+        "background": "#ffffff"
+    },
+    "25": {
+        "artist": "Halid Beslic",
+        "name": "Oj Zefire",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=nPFaxo8_6Cw",
+        "background": "#ffffff"
+    },
+    "26": {
+        "artist": "Divanhana",
+        "name": "Oj Safete, Sajo, Sarajlijo",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=LzoQr6uA3jI",
+        "background": "#ffffff"
+    },
+    "27": {
+        "artist": "Sasa Matic",
+        "name": "Neke Ptice nikad ne polete",
+        "status": "in progress",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=zE_qlqyvFow",
+        "background": "#ffffff"
+    },
+    "28": {
+        "artist": "Sasa Matic",
+        "name": "Nije ovo moja noc",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=Ce6btUKZcAc",
+        "background": "#ffffff"
+    },
+    "29": {
+        "artist": "Dzej Ramadanovski",
+        "name": "Lubenica",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=_fsLO5VttJ4",
+        "background": "#ffffff"
+    },
+    "30": {
+        "artist": "Olivera Katarina",
+        "name": "Niska Banja",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=Gn8LvJ2zTkE",
+        "background": "#ffffff"
+    },
+    "31": {
+        "artist": "Saban Bajramovic",
+        "name": "Kerta mange daje",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=zOBh7WDxbfU",
+        "background": "#ffffff"
+    },
+    "32": {
+        "artist": "Nenad Jovanovic",
+        "name": "Osman Aga",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=W8jooGwNXLU",
+        "background": "#ffffff"
+    },
+    "33": {
+        "artist": "Nedeljko Bilkic",
+        "name": "Krcma u planini",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=VURkMEJFKe8",
+        "background": "#ffffff"
+    },
+    "34": {
+        "artist": "Nenad Jovanovic",
+        "name": "Kceri moja Aliji dal' da te dam",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=oDpbg7HmR8Y",
+        "background": "#ffffff"
+    },
+    "35": {
+        "artist": "Goran Bregovic",
+        "name": "Ederlezi (Djurdjevdan)",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=EZf00ad3G6o",
+        "background": "#ffffff"
+    },
+    "36": {
+        "artist": "Lepa Brena",
+        "name": "Jugoslovenka",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=gsKn5KX6XnU",
+        "background": "#ffffff"
+    },
+    "37": {
+        "artist": "Donna Ares",
+        "name": "Prokleta je Amerika",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=ysM_bIlNRww",
+        "background": "#ffffff"
+    },
+    "38": {
+        "artist": "Saban Bajramovic",
+        "name": "Geljan dade (prokleta je Amerika)",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=Dwp5-mzNQ3I",
+        "background": "#ffffff"
+    },
+    "39": {
+        "artist": "Hanka Paldum",
+        "name": "Voljela sam voljela",
+        "status": "in progress",
+        "level": "5",
+        "link": "https:\/\/www.youtube.com\/watch?v=kMyvQGG1ZaA",
+        "background": "#ffffff"
+    },
+    "40": {
+        "artist": "Gordana Stojicevic",
+        "name": "Jutros mi je ruza procvetala",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=pF9WxqK-lao",
+        "background": "#ffffff"
+    },
+    "41": {
+        "artist": "Gordana Stojicevic",
+        "name": "Pusti me da nadjem srcu lek",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=-HlQwgti1m8",
+        "background": "#ffffff"
+    },
+    "42": {
+        "artist": "Zehra Bajraktarevic",
+        "name": "Potrazi me",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=F46vhqFH73c",
+        "background": "#ffffff"
+    },
+    "43": {
+        "artist": "Natasa Vladetic",
+        "name": "Plac bez suza",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=mIarZg7QJZs",
+        "background": "#ffffff"
+    },
+    "44": {
+        "artist": "Donna Ares",
+        "name": "Idi idi moja vilo",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=JFLWSBee0D4",
+        "background": "#ffffff"
+    },
+    "45": {
+        "artist": "Ana Bekuta",
+        "name": "Godinama",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=Qm5ykkhb5fQ",
+        "background": "#ffffff"
+    },
+    "46": {
+        "artist": "Ana Bekuta",
+        "name": "Rano moja",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=C2_dSAEMJSw",
+        "background": "#ffffff"
+    },
+    "47": {
+        "artist": "Ana Bekuta",
+        "name": "Ostavljena",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=CXym-73tE2E",
+        "background": "#ffffff"
+    },
+    "48": {
+        "artist": "Biljana Jevtic",
+        "name": "Proklet da je ovaj zivot",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=7K5nWEVP_8Q",
+        "background": "#ffffff"
+    },
+    "49": {
+        "artist": "Ana Bekuta",
+        "name": "Ti mi trebas",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=DX2MEJPOeIs",
+        "background": "#ffffff"
+    },
+    "50": {
+        "artist": "Zorica Markovic",
+        "name": "Lijte kise",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=j8ADmXRYP7M",
+        "background": "#ffffff"
+    },
+    "51": {
+        "artist": "Seid Memic Vajta",
+        "name": "Zlatna Ribica",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=Y91x3-r9Tiw",
+        "background": "#ffffff"
+    },
+    "52": {
+        "artist": "Nervozni Postar",
+        "name": "Jugo Jugo",
+        "status": "in progress",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=4oGIjxliwWA",
+        "background": "#ffffff"
+    },
+    "53": {
+        "artist": "Hasan Dudic",
+        "name": "Doslo vreme, izdaje me snaga",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=oV9tdGyZTno",
+        "background": "#ffffff"
+    },
+    "54": {
+        "artist": "Branka Stanarcic",
+        "name": "Jedini covek bio si za mene",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=cowJnC3zXvI",
+        "background": "#ffffff"
+    },
+    "55": {
+        "artist": "Silvana Armenulic",
+        "name": "Sta ce mi zivot",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=avH97QGHBgI",
+        "background": "#ffffff"
+    },
+    "56": {
+        "artist": "Zorica Brunclik",
+        "name": "A tebe nema",
+        "status": "in progress",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=CoBZTKOuHLk",
+        "background": "#ffffff"
+    },
+    "57": {
+        "artist": "Gordana Stojicevic",
+        "name": "Zagrli me ti i oprosti mi",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=HJOQH1sNRek",
+        "background": "#ffffff"
+    },
+    "58": {
+        "artist": "Danica Krstic",
+        "name": "Marijo, cero mori",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=J40GEW85iqs",
+        "background": "#ffffff"
+    },
+    "59": {
+        "artist": "Danica Krstic",
+        "name": "Udade se Jagodo",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=ueemCYddC_g",
+        "background": "#ffffff"
+    },
+    "60": {
+        "artist": "Danica Krstic",
+        "name": "Pod gorom se setalo devojce",
+        "status": "playing",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=v1U63QhwxiE",
+        "background": "#ffffff"
+    },
+    "61": {
+        "artist": "Milance Radosavljevic",
+        "name": "Dao bih ovo malo zivota",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=7aMQI1Uab9M",
+        "background": "#ffffff"
+    },
+    "62": {
+        "artist": "?",
+        "name": "Pukni zoro",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=OdGlvqudQFM",
+        "background": "#ffffff"
+    },
+    "63": {
+        "artist": "Halid Beslic",
+        "name": "Ljiljani",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=3uPlI9mvweE",
+        "background": "#ffffff"
+    },
+    "64": {
+        "artist": "Halid Beslic",
+        "name": "Zaljubljen sam stara Majko",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=hZ-DbaeRh28",
+        "background": "#ffffff"
+    },
+    "65": {
+        "artist": "Ana Bekuta",
+        "name": "Imam jedan zivot",
+        "status": "in progress",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=EjIpvsNi1qo",
+        "background": "#ffffff"
+    },
+    "66": {
+        "artist": "Zorica Brunclik",
+        "name": "Ja znam",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=17qcXoHIMMg",
+        "background": "#ffffff"
+    },
+    "67": {
+        "artist": "Ceca Raznatovic",
+        "name": "Bivsi",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=cfxM6cZZIC8",
+        "background": "#ffffff"
+    },
+    "68": {
+        "artist": "Maja Marijana",
+        "name": "Bio mi je dobar drug",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=pVzvQnX9PsA",
+        "background": "#ffff99"
+    },
+    "69": {
+        "artist": "Jasar Ahmedovski",
+        "name": "Vencajte me sa njenom lepotom",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=9Q2yKzrrYLI",
+        "background": "#ffffff"
+    },
+    "70": {
+        "artist": "Ceca Raznatovic",
+        "name": "Zabranicu srcu da te voli",
+        "status": "in progress",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=AjZDB8exCmQ",
+        "background": "#ffffff"
+    },
+    "71": {
+        "artist": "Semsa Suljakovic",
+        "name": "Tugo moja, kome da te pricam",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=dWoeX9uaPr0",
+        "background": "#ffffff"
+    },
+    "72": {
+        "artist": "Semsa Suljakovic",
+        "name": "Sirotinja ljude svadja",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=KRIz7WFAjPQ",
+        "background": "#ffffff"
+    },
+    "73": {
+        "artist": "Saban Saulic",
+        "name": "S namerom dodjoh u veliki grad",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=q3k5S84jnxE",
+        "background": "#ffffff"
+    },
+    "74": {
+        "artist": "Ceca Raznatovic",
+        "name": "Ako te ona odbije",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=gO9f8K85gdc",
+        "background": "#ffffff"
+    },
+    "75": {
+        "artist": "Silvana Armenulic",
+        "name": "Zapjevala sojka ptica",
+        "status": "playing",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=TF-3MdkwNXI",
+        "background": "#ffffff"
+    },
+    "76": {
+        "artist": "Safet Isovic",
+        "name": "Moj Dilbere",
+        "status": "playing",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=B3HGwLqPpNM",
+        "background": "#ffffff"
+    },
+    "77": {
+        "artist": "Silvana Armenulic",
+        "name": "Moj Dilbere",
+        "status": "playing",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=bTkEDCAf0kE",
+        "background": "#ffffff"
+    },
+    "78": {
+        "artist": "Ceca Raznatovic",
+        "name": "Pustite me da ga vidim",
+        "status": "playing",
+        "level": "5",
+        "link": "https:\/\/www.youtube.com\/watch?v=ypLBlAcSexU",
+        "background": "#ffffff"
+    },
+    "79": {
+        "artist": "Ceca Raznatovic",
+        "name": "Drugarice prokletnice",
+        "status": "playing",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=LB9u3yPygW0",
+        "background": "#ffffff"
+    },
+    "80": {
+        "artist": "Halid Beslic",
+        "name": "Eh kad bi ti",
+        "status": "playing",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=cNKkzG1b0fU",
+        "background": "#ffffff"
+    },
+    "81": {
+        "artist": "Snezana Djurisic",
+        "name": "Kise",
+        "status": "playing",
+        "level": "3",
+        "link": "https:\/\/www.youtube.com\/watch?v=k2A4uStDxm0",
+        "background": "#ffffff"
+    },
+    "82": {
+        "artist": "Serif Konjevic",
+        "name": "Nije taj covjek za tebe",
+        "status": "playing",
+        "level": "3",
+        "link": "https:\/\/www.youtube.com\/watch?v=6xA_WZOgcXo",
+        "background": "#ffffff"
+    },
+    "83": {
+        "artist": "Saban Saulic - Verica Serifovic",
+        "name": "Blagujno dejce",
+        "status": "playing",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=mMyhFS_LMSs",
+        "background": "#ffffff"
+    },
+    "84": {
+        "artist": "Goga Filipovic",
+        "name": "Tebe zelim",
+        "status": "playing",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=X0ucQFsgDH8",
+        "background": "#ffffff"
+    },
+    "85": {
+        "artist": "Boban Markovic",
+        "name": "Rumba",
+        "status": "playing",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=Fm7VfPBn5kQ",
+        "background": "#ffffff"
+    },
+    "86": {
+        "artist": "Vasilija Radojcic",
+        "name": "Ajde Jano",
+        "status": "playing",
+        "level": "5",
+        "link": "https:\/\/www.youtube.com\/watch?v=0E9e6NKNruM",
+        "background": "#ffffff"
+    },
+    "87": {
+        "artist": "Teija Niku - Grupa Balkan",
+        "name": "Ajde Jano (Instrumental)",
+        "status": "playing",
+        "level": "5",
+        "link": "https:\/\/www.youtube.com\/watch?v=yf4OzUzbaAg",
+        "background": "#ffffff"
+    },
+    "88": {
+        "artist": "Dzej Ramadanovski",
+        "name": "Ovaj zivot nije lak",
+        "status": "playing",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=We0HzrLmgp8",
+        "background": "#ffffff"
+    },
+    "89": {
+        "artist": "Dragana Mirkovic",
+        "name": "Nije tebi do mene",
+        "status": "playing",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=b00dYvLnRZY",
+        "background": "#ffffff"
+    },
+    "90": {
+        "artist": "Snezana Djurisic",
+        "name": "Srna i Jelen",
+        "status": "playing",
+        "level": "3",
+        "link": "https:\/\/www.youtube.com\/watch?v=qDGfpwTVBsc",
+        "background": "#ffffff"
+    },
+    "91": {
+        "artist": "Amira Medunjanin",
+        "name": "Jos ne svice rujna zora",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=uJ3vaw5mLzY",
+        "background": "#ffffff"
+    },
+    "92": {
+        "artist": "Aleksandra Bursac",
+        "name": "Opet imam razloga da zivim",
+        "status": "in progress",
+        "level": "5",
+        "link": "https:\/\/www.youtube.com\/watch?v=oijuwlZazK8",
+        "background": "#ffffff"
+    },
+    "93": {
+        "artist": "Louie Veleski",
+        "name": "Mesano Oro",
+        "status": "in progress",
+        "level": "3",
+        "link": "https:\/\/www.youtube.com\/watch?v=9-VObyZ_hu0",
+        "background": "#ffffff"
+    },
+    "94": {
+        "artist": "Hasan Dudic",
+        "name": "Eto to mi je",
+        "status": "in progress",
+        "level": "4",
+        "link": "https:\/\/www.youtube.com\/watch?v=2koP5i6Dtnw",
+        "background": "#ffffff"
+    },
+    "95": {
+        "artist": "Andreana Cekic",
+        "name": "Puste pare proklete",
+        "status": "playing",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=17nEYB3wDMQ",
+        "background": "#ffffff"
+    },
+    "96": {
+        "artist": "Orchestra Fratilor Advahov",
+        "name": "Rumunska svita (Hangul)",
+        "status": "playing",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=B8T2Pf91ouk",
+        "background": "#ffffff"
+    },
+    "97": {
+        "artist": "Saban Bajramovic",
+        "name": "Hanuma",
+        "status": "playing",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=A2tYF2y9W_k",
+        "background": "#ffffff"
+    },
+    "98": {
+        "artist": "Himzo Polovina",
+        "name": "Kad ja podjoh na Bembasu",
+        "status": "playing",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=l8-5gjXm8K4",
+        "background": "#ffffff"
+    },
+    "99": {
+        "artist": "Davor Badrov",
+        "name": "Ja baraba, sve joj dzaba (bridge)",
+        "status": "in progress",
+        "level": "2",
+        "link": "https:\/\/www.youtube.com\/watch?v=-bUZUJKd4iQ",
+        "background": "#ffffff"
+    },
+    "100": {
+        "artist": "Ana Bekuta",
+        "name": "Ne zalim ja",
+        "status": "playing",
+        "level": "3",
+        "link": "https:\/\/www.youtube.com\/watch?v=omXfJKZQFYU",
+        "background": "#ffffff"
+    },
+    "101": {
+        "artist": "Dragana Mirkovic",
+        "name": "Dolina kestenova",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=KhD48qq4ky0",
+        "background": "#ffffff"
+    },
+    "102": {
+        "artist": "Dragana Mirkovic",
+        "name": "Jos si meni drag",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=fvnqEAsQil0",
+        "background": "#ffffff"
+    },
+    "103": {
+        "artist": "Dragana Mirkovic",
+        "name": "Od kad sam se u tebe zaljubila",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=nQiIR8tbCiM",
+        "background": "#ffffff"
+    },
+    "104": {
+        "artist": "Divanhana - Danica Krstic",
+        "name": "Voce procvalo",
+        "status": "in progress",
+        "level": "1",
+        "link": "https:\/\/www.youtube.com\/watch?v=5QbwT9K0YXs",
+        "background": "#ffffff"
+    },
+    "105": {
+        "artist": "Semir Ceric Koke",
+        "name": "Kafanica",
+        "status": "in progress",
+        "level": "3",
+        "link": "https:\/\/www.youtube.com\/watch?v=KBFTlaG6JO4",
+        "background": "#ffffff"
+    }
+}

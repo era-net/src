@@ -19,6 +19,44 @@ function xhr() {
 		this.xhr.send();
 	}
 
+	this.progressQuery = function(params = {}) {
+		let obj = {};
+		obj.responseType = params.responseType ?? "text";
+
+		this.xhr.onload = function() {
+			if (this.status === 200 && this.readyState === 4) {
+				if (obj.responseType === "text") {
+					var re = this.responseText;
+					params.success(re);
+				} else if (obj.responseType === "json") {
+					var re;
+					try {
+						re = JSON.parse(this.responseText);
+					} catch(err) {
+						console.warn("xhr: failed to parse json response");
+						return false;
+					}
+					params.success(re);
+				}
+			}
+		}
+
+		this.xhr.open(params.method, params.url);
+		this.xhr.onprogress = function(evt) {
+			// if (evt.lengthComputable) {
+				let progObj = {
+					loaded: evt.loaded,
+					total: evt.total,
+					percent: (evt.loaded / evt.total) * 100
+				};
+				params.progress(progObj);
+			//} else {
+				//return false;
+			//}
+		}
+		this.xhr.send();
+	}
+
 	this.send = function(method, url, func, data) {
 		if (method === "GET") {
 

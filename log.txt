@@ -1,0 +1,3 @@
+date: 30-07-2020
+- got stuck on how to request json data including a progress bar. the problem is that the total size is unknown.
+  it could be solved with a server side solution like this (https://stackoverflow.com/questions/21236287/how-to-use-ob-to-set-the-content-length-in-the-header) but it seems not to be the right thing for me

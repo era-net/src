@@ -1,12 +1,14 @@
-<?php
-
-require_once "./assets/php/MAIN_MYSQL/MAIN_MYSQL.php";
-
-$db = new MAIN_MYSQL([
-  'server' => 'localhost',
-  'database' => 'div_project',
-  'table' => 'posts',
-  'username' => 'erwin',
-  'password' => 'erwin'
-]);
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+</head>
+<body>
+  
+  <script src="./assets/js/xhr/xhr.js"></script>
+  <script src="./main.js"></script>
+</body>
+</html>
