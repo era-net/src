@@ -2,12 +2,12 @@ function xhr() {
 
 	this.xhr = new XMLHttpRequest();
 
-	this.no_query = function(method, url) {
+	this.run = function(method, url) {
 		this.xhr.open(method, url);
 		this.xhr.send();
 	}
 
-	this.query = function(method, url, func) {
+	this.get = function(method, url, func) {
 		this.xhr.onload = function() {
 			if (this.status === 200 && this.readyState === 4) {
 				var re = this.responseText;
@@ -19,45 +19,26 @@ function xhr() {
 		this.xhr.send();
 	}
 
-	this.progressQuery = function(params = {}) {
-		let obj = {};
-		obj.responseType = params.responseType ?? "text";
-
+	this.getJson = function(method, url, func) {
 		this.xhr.onload = function() {
 			if (this.status === 200 && this.readyState === 4) {
-				if (obj.responseType === "text") {
-					var re = this.responseText;
-					params.success(re);
-				} else if (obj.responseType === "json") {
-					var re;
-					try {
-						re = JSON.parse(this.responseText);
-					} catch(err) {
-						console.warn("xhr: failed to parse json response");
-						return false;
-					}
-					params.success(re);
+				var rsp = this.responseText;
+				let re;
+				try {
+					re = JSON.parse(rsp);
+				} catch(err) {
+					console.error("xhr: invalid json data...");
+					return false;
 				}
+				func(re);
 			}
 		}
 
-		this.xhr.open(params.method, params.url);
-		this.xhr.onprogress = function(evt) {
-			// if (evt.lengthComputable) {
-				let progObj = {
-					loaded: evt.loaded,
-					total: evt.total,
-					percent: (evt.loaded / evt.total) * 100
-				};
-				params.progress(progObj);
-			//} else {
-				//return false;
-			//}
-		}
+		this.xhr.open(method, url, func);
 		this.xhr.send();
 	}
 
-	this.send = function(method, url, func, data) {
+	this.post = function(method, url, func, data) {
 		if (method === "GET") {
 
 			this.xhr.onload = function() {
@@ -122,9 +103,9 @@ function xhr() {
 	}
 
 	this.info = function() {
-		console.info('no_query(str(method),str(url));');
-		console.info('query(str(method), str(url), callback());');
-		console.info('send(str(method), str(url), callback(), str(data));');
+		console.info('run(str(method),str(url));');
+		console.info('get(str(method), str(url), callback());');
+		console.info('post(str(method), str(url), callback(), str(data));');
 		console.info('sendFiles({\n'
 		+ '  url: str(),\n'
 		+ '  data: obj(FormData),\n'
