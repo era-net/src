@@ -3,7 +3,7 @@ function xhr() {
 	this.xhr = new XMLHttpRequest();
 
 	this.run = function(method, url) {
-		this.xhr.open(method, url);
+		this.xhr.open(method.toUpperCase(), url);
 		this.xhr.send();
 	}
 
@@ -15,7 +15,7 @@ function xhr() {
 			}
 		}
 
-		this.xhr.open(method, url);
+		this.xhr.open(method.toUpperCase(), url);
 		this.xhr.send();
 	}
 
@@ -34,12 +34,25 @@ function xhr() {
 			}
 		}
 
-		this.xhr.open(method, url, func);
+		this.xhr.open(method.toUpperCase(), url, func);
 		this.xhr.send();
 	}
 
-	this.post = function(method, url, func, data) {
-		if (method === "GET") {
+	this.post = function(method, url, func, obj) {
+
+		let data = "";
+		let i = 0;
+
+		for (const [key, value] of Object.entries(obj)) {
+			if (i != (Object.keys(obj).length) - 1) {
+				data += key + "=" + encodeURIComponent(value) + "&";
+			} else {
+				data += key + "=" + encodeURIComponent(value);
+			}
+			i++;
+		}
+
+		if (method.toUpperCase() === "GET") {
 
 			this.xhr.onload = function() {
 				if (this.status === 200 && this.readyState === 4) {
@@ -48,10 +61,10 @@ function xhr() {
 				}
 			}
 
-			this.xhr.open(method, url + "?" + data);
+			this.xhr.open(method.toUpperCase(), url + "?" + data);
 			this.xhr.send();
 		}
-		if (method === "POST") {
+		if (method.toUpperCase() === "POST") {
 
 			this.xhr.onload = function() {
 				if (this.status === 200 && this.readyState === 4) {
@@ -60,13 +73,9 @@ function xhr() {
 				}
 			}
 
-			this.xhr.open(method, url);
+			this.xhr.open(method.toUpperCase(), url);
 			this.xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
 			this.xhr.send(data);
-		}
-
-		this.abort = function() {
-			this.xhr.abort();
 		}
 	}
 
@@ -105,7 +114,7 @@ function xhr() {
 	this.info = function() {
 		console.info('run(str(method),str(url));');
 		console.info('get(str(method), str(url), callback());');
-		console.info('post(str(method), str(url), callback(), str(data));');
+		console.info('post(str(method), str(url), callback(), obj(data));');
 		console.info('sendFiles({\n'
 		+ '  url: str(),\n'
 		+ '  data: obj(FormData),\n'
