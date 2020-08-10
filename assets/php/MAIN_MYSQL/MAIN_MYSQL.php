@@ -8,24 +8,6 @@
   protected $database = "";
   protected $table = "";
 
-  // function __construct($db = "", $tb = "myTable", $sv = "localhost", $un = "", $pw = "") {
-  //   $this->database = $db;
-  //   $this->server = $sv;
-  //   $this->username = $un;
-  //   $this->password = $pw;
-  //   $this->table = $tb;
-
-  //   if (!empty($db) && !empty($un) && !empty($pw)) {
-  //     try {
-  //       $this->conn = new PDO("mysql:host=$this->server;dbname=$this->database;charset=utf8", $this->username, $this->password);
-  //       // set the PDO error mode to exception
-  //       $this->conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  //     } catch(PDOException $e) {
-  //       echo "Connection failed: " . $e->getMessage();
-  //     }
-  //   }
-  // }
-
   function __construct($params = []) {
     $this->server = $params['server'] ?? NULL;
     $this->database = $params['database'] ?? NULL;
