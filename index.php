@@ -2,4 +2,4 @@
 
 require "./assets/php/autoload.php";
 
-$db = new DataController();
+$db = new DataController($_MainDB);

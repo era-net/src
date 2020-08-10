@@ -24,6 +24,8 @@
         } catch(PDOException $e) {
           echo "Connection failed: " . $e->getMessage();
         }
+      } else {
+        $this->info();
       }
     } else {
       $this->info();
@@ -32,7 +34,7 @@
 
   function read() {
     try {
-      $stmt = $this->conn->prepare("SELECT * FROM $this->table"); 
+      $stmt = $this->conn->prepare("SELECT * FROM $this->table");
       $stmt->execute();
 
       // set the resulting array to associative
@@ -191,7 +193,11 @@
       $result = $stmt->setFetchMode(PDO::FETCH_ASSOC);
 
       $data = $stmt->fetchAll();
-      return $data;
+      if (count($data) > 0) {
+        return $data;
+      } else {
+        return "nof";
+      }
     } catch(PDOException $e) {
       echo "Search Error: " . $e->getMessage();
       return False;
@@ -251,50 +257,57 @@
   }
 
   function info() {
+    echo "<style>";
+    echo '.info-wrapper {
+      width: fit-content;
+      margin: 0 auto; 
+    }
+    .point {
+      cursor: pointer;
+    }';
+    echo "</style>";
+    echo '<div class="info-wrapper">';
     echo "<pre>";
-    $msg = '<strong>DatabaseController</strong>
-This is a PHP tool to controll databases independently.
+    $msg = '<h1>DatabaseController</h1>
+This is a PHP tool to controll multiple mysql databases independently.
 
-<strong>basic usage</strong>:
-$db = new DataController([
-  "server" => "localhost",
-  "database" => "myDatabase",
-  "table" => "myTable",
-  "username" => "myUsername",
-  "password" => "myPassword"
-]);
+<h2>setup:</h2>
+please navigate to "/assets/php/Conn/Conn.php" and provide the connection data.
 
-echo <"pre">;
-print_r($db->read());
+<span class="point"><strong><span title="info">(<u>i</u>)</span></strong></span> you can add multiple connection arrays to the <span class="point"><strong><span title="/assets/php/Conn/Conn.php">mentioned
+    file</span></strong></span> to use multiple databases. Just create a unique
+    variable and assign it when instantiating the DataController
+    class. The Conn.php file will load automatically once you
+    require "/assets/php/autoload.php" into your php script.
 
 
 
 
-<strong>methods</strong>:
---> read()
+<h2>methods:</h2>
+<strong>read()</strong>
     returns all values from the database unsorted
     * takes no parameters
 
---> insert(columns<sup>1</sup>, values<sup>2</sup>)
+<strong>insert(columns<sup>1</sup>, values<sup>2</sup>)</strong>
     inserts an entry to the database defined by column and value arrays
     1. the array wich represents the columns (array)
     2. the array wich represents the values (array)
 
---> update(id<sup>1</sup>, columns<sup>2</sup>, values<sup>3</sup>)
+<strong>update(id<sup>1</sup>, columns<sup>2</sup>, values<sup>3</sup>)</strong>
     updates an entry specified by id and defined by column and value arrays
     1. database id (int)
     2. the array wich represents the columns (array)
     3. the array wich represents the values (array)
 
---> selectId(id<sup>1</sup>)
+<strong>selectId(id<sup>1</sup>)</strong>
     selects one specific entry from the database defined by id
     1. database id (int)
 
---> delete(id<sup>1</sup>)
+<strong>delete(id<sup>1</sup>)</strong>
     deletes one specific entry from the database defined by id
     1. database id (int)
 
---> search(string<sup>1</sup>, columns<sup>2</sup>, [sort<sup>3</sup>])
+<strong>search(string<sup>1</sup>, columns<sup>2</sup>, [sort<sup>3</sup>])</strong>
     searches the database by the given columns
     1. string to search for (str)
     2. columns in wich should be searched (array)
@@ -305,22 +318,26 @@ print_r($db->read());
          "type" => [ASC or DESC]
        )
 
---> asc(column<sup>1</sup>)
+<strong>asc(column<sup>1</sup>)</strong>
     returns the database values sorted by the given column in ascending order
     1. column (string)
 
---> desc(column<sup>1</sup>)
+<strong>desc(column<sup>1</sup>)</strong>
     returns the database values sorted by the given column in descending order
     1. column (string)
 
---> count()
+<strong>count()</strong>
     returns the number of entries the database currently has
     * takes no paramenters
 
 
 
-<strong>* this tool works on prepared PDO statements since August 2020</strong>';
+<strong>* this tool works on prepared PDO statements since August 2020</strong>
+
+
+';
     echo $msg;
     echo "</pre>";
+    echo "</div>";
   }
 }
