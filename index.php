@@ -10,6 +10,9 @@
   <!-- Bootstrap -->
   <link rel="stylesheet" href="./lib/bootstrap-4.5.2/css/bootstrap.min.css">
 
+  <!-- Theming -->
+  <link rel="stylesheet" href="./assets/css/custom/custom.styles.css">
+
   <!-- Shoelace -->
   <link rel="stylesheet" href="./modules/@shoelace-style/shoelace/dist/shoelace/shoelace.css">
 
