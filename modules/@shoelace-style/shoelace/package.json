@@ -1,0 +1,107 @@
+{
+  "_from": "@shoelace-style/shoelace",
+  "_id": "@shoelace-style/shoelace@2.0.0-beta.13",
+  "_inBundle": false,
+  "_integrity": "sha512-1LyZRhu12/WVXbzmMit1KgkuJzAMuUAMocyFN7sG+cagg1Lh9a4Szntrf8YLgwhjQOHRtht2VkEPF46l8I5QAg==",
+  "_location": "/@shoelace-style/shoelace",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@shoelace-style/shoelace",
+    "name": "@shoelace-style/shoelace",
+    "escapedName": "@shoelace-style%2fshoelace",
+    "scope": "@shoelace-style",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@shoelace-style/shoelace/-/shoelace-2.0.0-beta.13.tgz",
+  "_shasum": "c1884a20fe148833d0b6fe7a0e95e8b5f6e2077b",
+  "_spec": "@shoelace-style/shoelace",
+  "_where": "/Users/Erwin/Desktop/shoe",
+  "bugs": {
+    "url": "https://github.com/shoelace-style/shoelace/issues"
+  },
+  "bundleDependencies": false,
+  "collection": "dist/collection/collection-manifest.json",
+  "collection:main": "dist/collection/index.js",
+  "dependencies": {
+    "@popperjs/core": "^2.1.1",
+    "@stencil/core": "^1.17.1",
+    "color": "^3.1.2",
+    "resize-observer-polyfill": "^1.5.1"
+  },
+  "deprecated": false,
+  "description": "A forward-thinking library of web components.",
+  "devDependencies": {
+    "@stencil/eslint-plugin": "^0.3.1",
+    "@stencil/sass": "^1.3.2",
+    "@typescript-eslint/eslint-plugin": "^2.28.0",
+    "@typescript-eslint/parser": "^2.28.0",
+    "bluebird": "^3.7.2",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "browser-sync": "^2.26.7",
+    "chalk": "^4.0.0",
+    "concurrently": "^5.1.0",
+    "del": "^5.1.0",
+    "download": "^8.0.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0",
+    "express": "^4.17.1",
+    "front-matter": "^4.0.2",
+    "glob": "^7.1.6",
+    "http-proxy": "^1.18.1",
+    "http-proxy-middleware": "^1.0.4",
+    "husky": "^4.2.5",
+    "prettier": "2.0.5",
+    "recursive-copy": "^2.0.10",
+    "through2": "^3.0.1",
+    "workbox-build": "4.3.1"
+  },
+  "es2015": "dist/esm/index.mjs",
+  "es2017": "dist/esm/index.mjs",
+  "files": [
+    "dist/",
+    "loader/"
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/sponsors/claviska"
+  },
+  "homepage": "https://github.com/shoelace-style/shoelace#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run prettier && npm run lint"
+    }
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "name": "@shoelace-style/shoelace",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shoelace-style/shoelace.git"
+  },
+  "scripts": {
+    "build": "stencil build --docs",
+    "dev": "npm run make-icons && stencil build --dev --docs --watch --serve --port 4001 --no-open",
+    "lint": "eslint src/**/*{.ts,.tsx}",
+    "make-dist": "node make-dist.js",
+    "make-icons": "node make-icons.js",
+    "postbuild": "npm run make-dist",
+    "prebuild": "npm run prettier && npm run lint && npm run make-icons",
+    "prettier": "prettier --write --loglevel warn .",
+    "serve": "node dev-server.js",
+    "start": "concurrently --kill-others \"npm run dev\" \"npm run serve\"",
+    "test": "stencil test --spec --e2e",
+    "test.watch": "stencil test --spec --e2e --watchAll",
+    "version": "npm run build"
+  },
+  "types": "dist/types/index.d.ts",
+  "version": "2.0.0-beta.13"
+}

@@ -1,0 +1,40 @@
+:host {
+  position: relative;
+  box-sizing: border-box;
+}
+:host *, :host *:before, :host *:after {
+  box-sizing: inherit;
+}
+
+:host {
+  display: inline-block;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown__trigger {
+  display: block;
+}
+
+.dropdown__panel {
+  position: absolute;
+  z-index: var(--sl-z-index-dropdown);
+  max-height: 50vh;
+  font-family: var(--sl-font-sans);
+  font-size: var(--sl-font-size-medium);
+  font-weight: var(--sl-font-weight-normal);
+  color: var(--color);
+  background-color: var(--sl-color-white);
+  border: solid 1px var(--sl-color-gray-90);
+  border-radius: var(--sl-border-radius-medium);
+  box-shadow: var(--sl-shadow-large);
+  opacity: 0;
+  overflow: auto;
+  overscroll-behavior: none;
+  transition: var(--sl-transition-fast) opacity;
+}
+.dropdown__panel.popover-visible {
+  opacity: 1;
+}
