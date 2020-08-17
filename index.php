@@ -8,29 +8,26 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 
   <!-- Bootstrap -->
-  <link rel="stylesheet" href="./lib/bootstrap-4.5.2/css/bootstrap.min.css">
-
-  <!-- Theming -->
-  <link rel="stylesheet" href="./assets/css/custom/custom.styles.css">
+  <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.main.css">
 
   <!-- Shoelace -->
-  <link rel="stylesheet" href="./modules/@shoelace-style/shoelace/dist/shoelace/shoelace.css">
+  <link rel="stylesheet" href="./node_modules/@shoelace-style/shoelace/dist/shoelace/shoelace.css">
 
   <!-- Custom Styles -->
   <link rel="stylesheet" href="./assets/css/default/default.styles.css">
-  <title>Document</title>
+  <title>main_temp &bull; landing page</title>
 </head>
 <body>
   
 
   <!-- JQuery -->
-  <script type="text/javascript" src="./lib/jquery-3.5.1/jquery-3.5.1.min.js"></script>
+  <script type="module" src="./node_modules/jquery/dist/jquery.min.js"></script>
 
   <!-- Bootstrap -->
-  <script type="text/javascript" src="./lib/bootstrap-4.5.2/js/bootstrap.min.js"></script>
+  <script type="module" src="./node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 
   <!-- Shoelace -->
-  <script type="module" src="./modules/@shoelace-style/shoelace/dist/shoelace/shoelace.esm.js"></script>
+  <script type="module" src="./node_modules/@shoelace-style/shoelace/dist/shoelace/shoelace.esm.js"></script>
 
   <!-- Custom JS -->
   <!--<script type="text/javascript" src="#"></script>-->
