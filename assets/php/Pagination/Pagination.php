@@ -1,6 +1,6 @@
 <?php class Pagination {
-
-  private $total, $limit, $order_by, $pages;
+  protected $server, $database, $table, $username, $password, $conn;
+  private $total, $limit, $order_by, $pages, $order_type;
 
   public function __construct($params = []) {
     $this->server = $params['server'] ?? NULL;
