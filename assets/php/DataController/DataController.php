@@ -3,7 +3,7 @@
   protected $username = "";
   private $password = "";
 
-  protected $conn = "";
+  protected object $conn;
 
   protected $database = "";
   protected $table = "";
